@@ -1,6 +1,6 @@
 ﻿@charset "UTF-8";
 @import url("font-awesome.min.css");
-@import url("http://fonts.googleapis.com/css?family=Lato:300,400,900");
+@import url("https://fonts.googleapis.com/css?family=Lato:300,400,900");
 
 /*
 	Twenty 1.0 by HTML5 UP
@@ -13,6 +13,10 @@
 	body, #skel-layers-wrapper {
 		background: #f3f6fa;
 	}
+
+    .hide {
+        display: none;
+    }
 
 	body.loading * {
 		-moz-animation: none !important;
@@ -57,7 +61,7 @@
 	p, ul, ol, dl, table, blockquote {
 		margin: 0 0 0.5em 0;
 	}
-	
+
 	li {
 		list-style: none;
 	}
@@ -113,7 +117,7 @@
 	section.special, article.special {
 		text-align: center;
 	}
-	
+
 	section.details {
 		padding-top: 1em;
 		font-size: 0.8em;
@@ -173,7 +177,7 @@
 				font-size: 3.5em;
 				opacity: 0.35;
 			}
-			
+
 		header.special .logo {
 			cursor: default;
 			height: 7em;
@@ -272,12 +276,12 @@
 			top: 0;
 			width: 100%;
 		}
-		
+
 		.image:hover {
 			opacity: 0.7;
 		}
-		
-		
+
+
 		.image.fit {
 			display: block;
 		}
@@ -342,7 +346,7 @@
 				.icon.circle.fa-facebook:hover {
 					background: #829bc9;
 				}
-				
+
 			.icon.circle.fa-pinterest {
 				background: #D35056;
 				color: white;
@@ -532,7 +536,7 @@
 			min-width: 14em;
 			padding: 0.5em 0;
 		}
-		
+
 		.button.xsmall {
 			font-size: 0.5em;
 			min-width: 12em;
