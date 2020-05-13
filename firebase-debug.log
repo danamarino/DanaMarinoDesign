@@ -1,0 +1,141 @@
+[debug] [2020-04-27T13:55:14.511Z] ----------------------------------------------------------------------
+[debug] [2020-04-27T13:55:14.513Z] Command:       /Users/danamarino/.nvm/versions/node/v12.16.2/bin/node /Users/danamarino/.nvm/versions/node/v12.16.2/bin/firebase serve
+[debug] [2020-04-27T13:55:14.513Z] CLI Version:   8.1.1
+[debug] [2020-04-27T13:55:14.513Z] Platform:      darwin
+[debug] [2020-04-27T13:55:14.513Z] Node Version:  v12.16.2
+[debug] [2020-04-27T13:55:14.641Z] Time:          Mon Apr 27 2020 09:55:14 GMT-0400 (Eastern Daylight Time)
+[debug] [2020-04-27T13:55:14.641Z] ----------------------------------------------------------------------
+[debug] [2020-04-27T13:55:14.641Z] 
+[debug] [2020-04-27T13:55:14.662Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2020-04-27T13:55:14.662Z] > authorizing via signed-in user
+[debug] [2020-04-27T13:55:14.662Z] [iam] checking project danamarinodesign-c7e1d for permissions ["firebase.projects.get"]
+[debug] [2020-04-27T13:55:14.664Z] >>> HTTP REQUEST POST https://cloudresourcemanager.googleapis.com/v1/projects/danamarinodesign-c7e1d:testIamPermissions  
+ {"permissions":["firebase.projects.get"]}
+[debug] [2020-04-27T13:55:14.956Z] <<< HTTP RESPONSE 200 {"content-type":"application/json; charset=UTF-8","vary":"X-Origin, Referer, Origin,Accept-Encoding","date":"Mon, 27 Apr 2020 13:55:14 GMT","server":"ESF","cache-control":"private","x-xss-protection":"0","x-frame-options":"SAMEORIGIN","x-content-type-options":"nosniff","server-timing":"gfet4t7; dur=155","alt-svc":"quic=\":443\"; ma=2592000; v=\"46,43\",h3-Q050=\":443\"; ma=2592000,h3-Q049=\":443\"; ma=2592000,h3-Q048=\":443\"; ma=2592000,h3-Q046=\":443\"; ma=2592000,h3-Q043=\":443\"; ma=2592000,h3-T050=\":443\"; ma=2592000","accept-ranges":"none","transfer-encoding":"chunked"}
+[debug] [2020-04-27T13:55:14.957Z] >>> HTTP REQUEST GET https://firebase.googleapis.com/v1beta1/projects/danamarinodesign-c7e1d  
+ 
+[debug] [2020-04-27T13:55:15.183Z] <<< HTTP RESPONSE 200 {"content-type":"application/json; charset=UTF-8","vary":"X-Origin, Referer, Origin,Accept-Encoding","date":"Mon, 27 Apr 2020 13:55:15 GMT","server":"ESF","cache-control":"private","x-xss-protection":"0","x-frame-options":"SAMEORIGIN","x-content-type-options":"nosniff","alt-svc":"quic=\":443\"; ma=2592000; v=\"46,43\",h3-Q050=\":443\"; ma=2592000,h3-Q049=\":443\"; ma=2592000,h3-Q048=\":443\"; ma=2592000,h3-Q046=\":443\"; ma=2592000,h3-Q043=\":443\"; ma=2592000,h3-T050=\":443\"; ma=2592000","accept-ranges":"none","transfer-encoding":"chunked"}
+[info] 
+[info] === Serving from '/Users/danamarino/DanaMarinoDesign'...
+[info] 
+[debug] [2020-04-27T13:55:15.184Z] >>> HTTP REQUEST GET https://firebase.googleapis.com/v1beta1/projects/danamarinodesign-c7e1d/webApps/-/config  
+ 
+[debug] [2020-04-27T13:55:15.580Z] <<< HTTP RESPONSE 200 {"content-type":"application/json; charset=UTF-8","vary":"X-Origin, Referer, Origin,Accept-Encoding","date":"Mon, 27 Apr 2020 13:55:15 GMT","server":"ESF","cache-control":"private","x-xss-protection":"0","x-frame-options":"SAMEORIGIN","x-content-type-options":"nosniff","alt-svc":"quic=\":443\"; ma=2592000; v=\"46,43\",h3-Q050=\":443\"; ma=2592000,h3-Q049=\":443\"; ma=2592000,h3-Q048=\":443\"; ma=2592000,h3-Q046=\":443\"; ma=2592000,h3-Q043=\":443\"; ma=2592000,h3-T050=\":443\"; ma=2592000","accept-ranges":"none","transfer-encoding":"chunked"}
+[info] i  hosting: Serving hosting files from: public
+[info] ✔  hosting: Local server: http://localhost:5000
+[debug] [2020-04-27T16:36:07.143Z] ----------------------------------------------------------------------
+[debug] [2020-04-27T16:36:07.155Z] Command:       /Users/danamarino/.nvm/versions/node/v12.16.2/bin/node /Users/danamarino/.nvm/versions/node/v12.16.2/bin/firebase serve
+[debug] [2020-04-27T16:36:07.155Z] CLI Version:   8.1.1
+[debug] [2020-04-27T16:36:07.155Z] Platform:      darwin
+[debug] [2020-04-27T16:36:07.155Z] Node Version:  v12.16.2
+[debug] [2020-04-27T16:36:07.262Z] Time:          Mon Apr 27 2020 12:36:07 GMT-0400 (Eastern Daylight Time)
+[debug] [2020-04-27T16:36:07.262Z] ----------------------------------------------------------------------
+[debug] [2020-04-27T16:36:07.262Z] 
+[debug] [2020-04-27T16:36:07.327Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2020-04-27T16:36:07.327Z] > authorizing via signed-in user
+[debug] [2020-04-27T16:36:07.327Z] [iam] checking project danamarinodesign-c7e1d for permissions ["firebase.projects.get"]
+[debug] [2020-04-27T16:36:07.329Z] > refreshing access token with scopes: ["email","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","openid"]
+[debug] [2020-04-27T16:36:07.330Z] >>> HTTP REQUEST POST https://www.googleapis.com/oauth2/v3/token  
+ <request body omitted>
+[debug] [2020-04-27T16:36:07.655Z] <<< HTTP RESPONSE 200 {"content-type":"application/json; charset=utf-8","vary":"X-Origin, Referer, Origin,Accept-Encoding","date":"Mon, 27 Apr 2020 16:36:07 GMT","server":"scaffolding on HTTPServer2","cache-control":"private","x-xss-protection":"0","x-frame-options":"SAMEORIGIN","x-content-type-options":"nosniff","alt-svc":"quic=\":443\"; ma=2592000; v=\"46,43\",h3-Q050=\":443\"; ma=2592000,h3-Q049=\":443\"; ma=2592000,h3-Q048=\":443\"; ma=2592000,h3-Q046=\":443\"; ma=2592000,h3-Q043=\":443\"; ma=2592000,h3-T050=\":443\"; ma=2592000","accept-ranges":"none","transfer-encoding":"chunked"}
+[debug] [2020-04-27T16:36:07.677Z] >>> HTTP REQUEST POST https://cloudresourcemanager.googleapis.com/v1/projects/danamarinodesign-c7e1d:testIamPermissions  
+ {"permissions":["firebase.projects.get"]}
+[debug] [2020-04-27T16:36:07.901Z] <<< HTTP RESPONSE 200 {"content-type":"application/json; charset=UTF-8","vary":"X-Origin, Referer, Origin,Accept-Encoding","date":"Mon, 27 Apr 2020 16:36:07 GMT","server":"ESF","cache-control":"private","x-xss-protection":"0","x-frame-options":"SAMEORIGIN","x-content-type-options":"nosniff","server-timing":"gfet4t7; dur=158","alt-svc":"quic=\":443\"; ma=2592000; v=\"46,43\",h3-Q050=\":443\"; ma=2592000,h3-Q049=\":443\"; ma=2592000,h3-Q048=\":443\"; ma=2592000,h3-Q046=\":443\"; ma=2592000,h3-Q043=\":443\"; ma=2592000,h3-T050=\":443\"; ma=2592000","accept-ranges":"none","transfer-encoding":"chunked"}
+[debug] [2020-04-27T16:36:07.902Z] >>> HTTP REQUEST GET https://firebase.googleapis.com/v1beta1/projects/danamarinodesign-c7e1d  
+ 
+[debug] [2020-04-27T16:36:08.119Z] <<< HTTP RESPONSE 200 {"content-type":"application/json; charset=UTF-8","vary":"X-Origin, Referer, Origin,Accept-Encoding","date":"Mon, 27 Apr 2020 16:36:08 GMT","server":"ESF","cache-control":"private","x-xss-protection":"0","x-frame-options":"SAMEORIGIN","x-content-type-options":"nosniff","alt-svc":"quic=\":443\"; ma=2592000; v=\"46,43\",h3-Q050=\":443\"; ma=2592000,h3-Q049=\":443\"; ma=2592000,h3-Q048=\":443\"; ma=2592000,h3-Q046=\":443\"; ma=2592000,h3-Q043=\":443\"; ma=2592000,h3-T050=\":443\"; ma=2592000","accept-ranges":"none","transfer-encoding":"chunked"}
+[info] 
+[info] === Serving from '/Users/danamarino/DanaMarinoDesign'...
+[info] 
+[debug] [2020-04-27T16:36:08.139Z] >>> HTTP REQUEST GET https://firebase.googleapis.com/v1beta1/projects/danamarinodesign-c7e1d/webApps/-/config  
+ 
+[debug] [2020-04-27T16:36:08.797Z] <<< HTTP RESPONSE 200 {"content-type":"application/json; charset=UTF-8","vary":"X-Origin, Referer, Origin,Accept-Encoding","date":"Mon, 27 Apr 2020 16:36:08 GMT","server":"ESF","cache-control":"private","x-xss-protection":"0","x-frame-options":"SAMEORIGIN","x-content-type-options":"nosniff","alt-svc":"quic=\":443\"; ma=2592000; v=\"46,43\",h3-Q050=\":443\"; ma=2592000,h3-Q049=\":443\"; ma=2592000,h3-Q048=\":443\"; ma=2592000,h3-Q046=\":443\"; ma=2592000,h3-Q043=\":443\"; ma=2592000,h3-T050=\":443\"; ma=2592000","accept-ranges":"none","transfer-encoding":"chunked"}
+[info] i  hosting: Serving hosting files from: public
+[info] ✔  hosting: Local server: http://localhost:5000
+[debug] [2020-04-27T19:01:49.970Z] ----------------------------------------------------------------------
+[debug] [2020-04-27T19:01:49.972Z] Command:       /Users/danamarino/.nvm/versions/node/v12.16.2/bin/node /Users/danamarino/.nvm/versions/node/v12.16.2/bin/firebase serve
+[debug] [2020-04-27T19:01:49.972Z] CLI Version:   8.1.1
+[debug] [2020-04-27T19:01:49.972Z] Platform:      darwin
+[debug] [2020-04-27T19:01:49.972Z] Node Version:  v12.16.2
+[debug] [2020-04-27T19:01:49.977Z] Time:          Mon Apr 27 2020 15:01:49 GMT-0400 (Eastern Daylight Time)
+[debug] [2020-04-27T19:01:49.977Z] ----------------------------------------------------------------------
+[debug] [2020-04-27T19:01:49.977Z] 
+[debug] [2020-04-27T19:01:50.009Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2020-04-27T19:01:50.009Z] > authorizing via signed-in user
+[debug] [2020-04-27T19:01:50.010Z] [iam] checking project danamarinodesign-c7e1d for permissions ["firebase.projects.get"]
+[debug] [2020-04-27T19:01:50.012Z] > refreshing access token with scopes: ["email","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","openid"]
+[debug] [2020-04-27T19:01:50.012Z] >>> HTTP REQUEST POST https://www.googleapis.com/oauth2/v3/token  
+ <request body omitted>
+[debug] [2020-04-27T19:01:50.137Z] <<< HTTP RESPONSE 200 {"content-type":"application/json; charset=utf-8","vary":"X-Origin, Referer, Origin,Accept-Encoding","date":"Mon, 27 Apr 2020 19:01:50 GMT","server":"scaffolding on HTTPServer2","cache-control":"private","x-xss-protection":"0","x-frame-options":"SAMEORIGIN","x-content-type-options":"nosniff","alt-svc":"quic=\":443\"; ma=2592000; v=\"46,43\",h3-Q050=\":443\"; ma=2592000,h3-Q049=\":443\"; ma=2592000,h3-Q048=\":443\"; ma=2592000,h3-Q046=\":443\"; ma=2592000,h3-Q043=\":443\"; ma=2592000,h3-T050=\":443\"; ma=2592000","accept-ranges":"none","transfer-encoding":"chunked"}
+[debug] [2020-04-27T19:01:50.166Z] >>> HTTP REQUEST POST https://cloudresourcemanager.googleapis.com/v1/projects/danamarinodesign-c7e1d:testIamPermissions  
+ {"permissions":["firebase.projects.get"]}
+[debug] [2020-04-27T19:01:50.281Z] <<< HTTP RESPONSE 200 {"content-type":"application/json; charset=UTF-8","vary":"X-Origin, Referer, Origin,Accept-Encoding","date":"Mon, 27 Apr 2020 19:01:50 GMT","server":"ESF","cache-control":"private","x-xss-protection":"0","x-frame-options":"SAMEORIGIN","x-content-type-options":"nosniff","server-timing":"gfet4t7; dur=57","alt-svc":"quic=\":443\"; ma=2592000; v=\"46,43\",h3-Q050=\":443\"; ma=2592000,h3-Q049=\":443\"; ma=2592000,h3-Q048=\":443\"; ma=2592000,h3-Q046=\":443\"; ma=2592000,h3-Q043=\":443\"; ma=2592000,h3-T050=\":443\"; ma=2592000","accept-ranges":"none","transfer-encoding":"chunked"}
+[debug] [2020-04-27T19:01:50.282Z] >>> HTTP REQUEST GET https://firebase.googleapis.com/v1beta1/projects/danamarinodesign-c7e1d  
+ 
+[debug] [2020-04-27T19:01:50.650Z] <<< HTTP RESPONSE 200 {"content-type":"application/json; charset=UTF-8","vary":"X-Origin, Referer, Origin,Accept-Encoding","date":"Mon, 27 Apr 2020 19:01:50 GMT","server":"ESF","cache-control":"private","x-xss-protection":"0","x-frame-options":"SAMEORIGIN","x-content-type-options":"nosniff","alt-svc":"quic=\":443\"; ma=2592000; v=\"46,43\",h3-Q050=\":443\"; ma=2592000,h3-Q049=\":443\"; ma=2592000,h3-Q048=\":443\"; ma=2592000,h3-Q046=\":443\"; ma=2592000,h3-Q043=\":443\"; ma=2592000,h3-T050=\":443\"; ma=2592000","accept-ranges":"none","transfer-encoding":"chunked"}
+[info] 
+[info] === Serving from '/Users/danamarino/DanaMarinoDesign'...
+[info] 
+[debug] [2020-04-27T19:01:50.652Z] >>> HTTP REQUEST GET https://firebase.googleapis.com/v1beta1/projects/danamarinodesign-c7e1d/webApps/-/config  
+ 
+[debug] [2020-04-27T19:01:51.264Z] <<< HTTP RESPONSE 200 {"content-type":"application/json; charset=UTF-8","vary":"X-Origin, Referer, Origin,Accept-Encoding","date":"Mon, 27 Apr 2020 19:01:51 GMT","server":"ESF","cache-control":"private","x-xss-protection":"0","x-frame-options":"SAMEORIGIN","x-content-type-options":"nosniff","alt-svc":"quic=\":443\"; ma=2592000; v=\"46,43\",h3-Q050=\":443\"; ma=2592000,h3-Q049=\":443\"; ma=2592000,h3-Q048=\":443\"; ma=2592000,h3-Q046=\":443\"; ma=2592000,h3-Q043=\":443\"; ma=2592000,h3-T050=\":443\"; ma=2592000","accept-ranges":"none","transfer-encoding":"chunked"}
+[info] i  hosting: Serving hosting files from: public
+[info] ✔  hosting: Local server: http://localhost:5000
+[debug] [2020-05-12T16:56:11.181Z] ----------------------------------------------------------------------
+[debug] [2020-05-12T16:56:11.182Z] Command:       /Users/danamarino/.nvm/versions/node/v12.16.2/bin/node /Users/danamarino/.nvm/versions/node/v12.16.2/bin/firebase serve
+[debug] [2020-05-12T16:56:11.182Z] CLI Version:   8.1.1
+[debug] [2020-05-12T16:56:11.183Z] Platform:      darwin
+[debug] [2020-05-12T16:56:11.183Z] Node Version:  v12.16.2
+[debug] [2020-05-12T16:56:11.184Z] Time:          Tue May 12 2020 12:56:11 GMT-0400 (Eastern Daylight Time)
+[debug] [2020-05-12T16:56:11.185Z] ----------------------------------------------------------------------
+[debug] [2020-05-12T16:56:11.185Z] 
+[debug] [2020-05-12T16:56:11.231Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2020-05-12T16:56:11.231Z] > authorizing via signed-in user
+[debug] [2020-05-12T16:56:11.232Z] [iam] checking project danamarinodesign-c7e1d for permissions ["firebase.projects.get"]
+[debug] [2020-05-12T16:56:11.233Z] > refreshing access token with scopes: ["email","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","openid"]
+[debug] [2020-05-12T16:56:11.233Z] >>> HTTP REQUEST POST https://www.googleapis.com/oauth2/v3/token  
+ <request body omitted>
+[debug] [2020-05-12T16:56:11.328Z] <<< HTTP RESPONSE 200 {"content-type":"application/json; charset=utf-8","vary":"X-Origin, Referer, Origin,Accept-Encoding","date":"Tue, 12 May 2020 16:56:11 GMT","server":"scaffolding on HTTPServer2","cache-control":"private","x-xss-protection":"0","x-frame-options":"SAMEORIGIN","x-content-type-options":"nosniff","alt-svc":"h3-27=\":443\"; ma=2592000,h3-25=\":443\"; ma=2592000,h3-T050=\":443\"; ma=2592000,h3-Q050=\":443\"; ma=2592000,h3-Q049=\":443\"; ma=2592000,h3-Q048=\":443\"; ma=2592000,h3-Q046=\":443\"; ma=2592000,h3-Q043=\":443\"; ma=2592000,quic=\":443\"; ma=2592000; v=\"46,43\"","accept-ranges":"none","transfer-encoding":"chunked"}
+[debug] [2020-05-12T16:56:11.351Z] >>> HTTP REQUEST POST https://cloudresourcemanager.googleapis.com/v1/projects/danamarinodesign-c7e1d:testIamPermissions  
+ {"permissions":["firebase.projects.get"]}
+[debug] [2020-05-12T16:56:11.570Z] <<< HTTP RESPONSE 200 {"content-type":"application/json; charset=UTF-8","vary":"X-Origin, Referer, Origin,Accept-Encoding","date":"Tue, 12 May 2020 16:56:11 GMT","server":"ESF","cache-control":"private","x-xss-protection":"0","x-frame-options":"SAMEORIGIN","x-content-type-options":"nosniff","server-timing":"gfet4t7; dur=168","alt-svc":"h3-27=\":443\"; ma=2592000,h3-25=\":443\"; ma=2592000,h3-Q050=\":443\"; ma=2592000,h3-Q049=\":443\"; ma=2592000,h3-Q048=\":443\"; ma=2592000,h3-Q046=\":443\"; ma=2592000,h3-Q043=\":443\"; ma=2592000,quic=\":443\"; ma=2592000; v=\"46,43\"","accept-ranges":"none","transfer-encoding":"chunked"}
+[debug] [2020-05-12T16:56:11.571Z] >>> HTTP REQUEST GET https://firebase.googleapis.com/v1beta1/projects/danamarinodesign-c7e1d  
+ 
+[debug] [2020-05-12T16:56:11.785Z] <<< HTTP RESPONSE 200 {"content-type":"application/json; charset=UTF-8","vary":"X-Origin, Referer, Origin,Accept-Encoding","date":"Tue, 12 May 2020 16:56:11 GMT","server":"ESF","cache-control":"private","x-xss-protection":"0","x-frame-options":"SAMEORIGIN","x-content-type-options":"nosniff","alt-svc":"h3-27=\":443\"; ma=2592000,h3-25=\":443\"; ma=2592000,h3-Q050=\":443\"; ma=2592000,h3-Q049=\":443\"; ma=2592000,h3-Q048=\":443\"; ma=2592000,h3-Q046=\":443\"; ma=2592000,h3-Q043=\":443\"; ma=2592000,quic=\":443\"; ma=2592000; v=\"46,43\"","accept-ranges":"none","transfer-encoding":"chunked"}
+[info] 
+[info] === Serving from '/Users/danamarino/DanaMarinoDesign'...
+[info] 
+[debug] [2020-05-12T16:56:11.787Z] >>> HTTP REQUEST GET https://firebase.googleapis.com/v1beta1/projects/danamarinodesign-c7e1d/webApps/-/config  
+ 
+[debug] [2020-05-12T16:56:12.297Z] <<< HTTP RESPONSE 200 {"content-type":"application/json; charset=UTF-8","vary":"X-Origin, Referer, Origin,Accept-Encoding","date":"Tue, 12 May 2020 16:56:12 GMT","server":"ESF","cache-control":"private","x-xss-protection":"0","x-frame-options":"SAMEORIGIN","x-content-type-options":"nosniff","alt-svc":"h3-27=\":443\"; ma=2592000,h3-25=\":443\"; ma=2592000,h3-Q050=\":443\"; ma=2592000,h3-Q049=\":443\"; ma=2592000,h3-Q048=\":443\"; ma=2592000,h3-Q046=\":443\"; ma=2592000,h3-Q043=\":443\"; ma=2592000,quic=\":443\"; ma=2592000; v=\"46,43\"","accept-ranges":"none","transfer-encoding":"chunked"}
+[info] i  hosting: Serving hosting files from: public
+[info] ✔  hosting: Local server: http://localhost:5000
+[debug] [2020-05-12T23:57:18.547Z] ----------------------------------------------------------------------
+[debug] [2020-05-12T23:57:18.558Z] Command:       /Users/danamarino/.nvm/versions/node/v12.16.2/bin/node /Users/danamarino/.nvm/versions/node/v12.16.2/bin/firebase serve
+[debug] [2020-05-12T23:57:18.559Z] CLI Version:   8.1.1
+[debug] [2020-05-12T23:57:18.559Z] Platform:      darwin
+[debug] [2020-05-12T23:57:18.559Z] Node Version:  v12.16.2
+[debug] [2020-05-12T23:57:18.654Z] Time:          Tue May 12 2020 19:57:18 GMT-0400 (Eastern Daylight Time)
+[debug] [2020-05-12T23:57:18.655Z] ----------------------------------------------------------------------
+[debug] [2020-05-12T23:57:18.655Z] 
+[debug] [2020-05-12T23:57:18.708Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2020-05-12T23:57:18.709Z] > authorizing via signed-in user
+[debug] [2020-05-12T23:57:18.709Z] [iam] checking project danamarinodesign-c7e1d for permissions ["firebase.projects.get"]
+[debug] [2020-05-12T23:57:18.711Z] > refreshing access token with scopes: ["email","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","openid"]
+[debug] [2020-05-12T23:57:18.711Z] >>> HTTP REQUEST POST https://www.googleapis.com/oauth2/v3/token  
+ <request body omitted>
+[debug] [2020-05-12T23:57:19.103Z] <<< HTTP RESPONSE 200 {"content-type":"application/json; charset=utf-8","vary":"X-Origin, Referer, Origin,Accept-Encoding","date":"Tue, 12 May 2020 23:57:19 GMT","server":"scaffolding on HTTPServer2","cache-control":"private","x-xss-protection":"0","x-frame-options":"SAMEORIGIN","x-content-type-options":"nosniff","alt-svc":"h3-27=\":443\"; ma=2592000,h3-25=\":443\"; ma=2592000,h3-Q050=\":443\"; ma=2592000,h3-Q049=\":443\"; ma=2592000,h3-Q048=\":443\"; ma=2592000,h3-Q046=\":443\"; ma=2592000,h3-Q043=\":443\"; ma=2592000,quic=\":443\"; ma=2592000; v=\"46,43\"","accept-ranges":"none","transfer-encoding":"chunked"}
+[debug] [2020-05-12T23:57:19.132Z] >>> HTTP REQUEST POST https://cloudresourcemanager.googleapis.com/v1/projects/danamarinodesign-c7e1d:testIamPermissions  
+ {"permissions":["firebase.projects.get"]}
+[debug] [2020-05-12T23:57:19.359Z] <<< HTTP RESPONSE 200 {"content-type":"application/json; charset=UTF-8","vary":"X-Origin, Referer, Origin,Accept-Encoding","date":"Tue, 12 May 2020 23:57:19 GMT","server":"ESF","cache-control":"private","x-xss-protection":"0","x-frame-options":"SAMEORIGIN","x-content-type-options":"nosniff","server-timing":"gfet4t7; dur=169","alt-svc":"h3-27=\":443\"; ma=2592000,h3-25=\":443\"; ma=2592000,h3-Q050=\":443\"; ma=2592000,h3-Q049=\":443\"; ma=2592000,h3-Q048=\":443\"; ma=2592000,h3-Q046=\":443\"; ma=2592000,h3-Q043=\":443\"; ma=2592000,quic=\":443\"; ma=2592000; v=\"46,43\"","accept-ranges":"none","transfer-encoding":"chunked"}
+[debug] [2020-05-12T23:57:19.360Z] >>> HTTP REQUEST GET https://firebase.googleapis.com/v1beta1/projects/danamarinodesign-c7e1d  
+ 
+[debug] [2020-05-12T23:57:19.555Z] <<< HTTP RESPONSE 200 {"content-type":"application/json; charset=UTF-8","vary":"X-Origin, Referer, Origin,Accept-Encoding","date":"Tue, 12 May 2020 23:57:19 GMT","server":"ESF","cache-control":"private","x-xss-protection":"0","x-frame-options":"SAMEORIGIN","x-content-type-options":"nosniff","alt-svc":"h3-27=\":443\"; ma=2592000,h3-25=\":443\"; ma=2592000,h3-Q050=\":443\"; ma=2592000,h3-Q049=\":443\"; ma=2592000,h3-Q048=\":443\"; ma=2592000,h3-Q046=\":443\"; ma=2592000,h3-Q043=\":443\"; ma=2592000,quic=\":443\"; ma=2592000; v=\"46,43\"","accept-ranges":"none","transfer-encoding":"chunked"}
+[info] 
+[info] === Serving from '/Users/danamarino/DanaMarinoDesign'...
+[info] 
+[debug] [2020-05-12T23:57:19.576Z] >>> HTTP REQUEST GET https://firebase.googleapis.com/v1beta1/projects/danamarinodesign-c7e1d/webApps/-/config  
+ 
+[debug] [2020-05-12T23:57:19.953Z] <<< HTTP RESPONSE 200 {"content-type":"application/json; charset=UTF-8","vary":"X-Origin, Referer, Origin,Accept-Encoding","date":"Tue, 12 May 2020 23:57:19 GMT","server":"ESF","cache-control":"private","x-xss-protection":"0","x-frame-options":"SAMEORIGIN","x-content-type-options":"nosniff","alt-svc":"h3-27=\":443\"; ma=2592000,h3-25=\":443\"; ma=2592000,h3-Q050=\":443\"; ma=2592000,h3-Q049=\":443\"; ma=2592000,h3-Q048=\":443\"; ma=2592000,h3-Q046=\":443\"; ma=2592000,h3-Q043=\":443\"; ma=2592000,quic=\":443\"; ma=2592000; v=\"46,43\"","accept-ranges":"none","transfer-encoding":"chunked"}
+[info] i  hosting: Serving hosting files from: public
+[info] ✔  hosting: Local server: http://localhost:5000

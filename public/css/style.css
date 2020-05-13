@@ -46,7 +46,7 @@
 		-o-transition: all 0.2s ease-in-out;
 		-ms-transition: all 0.2s ease-in-out;
 		transition: all 0.2s ease-in-out;
-		color: #3fb1a3;
+		color: #798aa8;
 		text-decoration: none;
 	}
 
@@ -71,7 +71,7 @@
 		font-weight: 300;
 		line-height: 1.75em;
 		margin-bottom: 0.25em;
-		text-transform: uppercase;
+		text-transform: none;
 	}
 
 		h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
@@ -527,14 +527,14 @@
 		}
 
 		.button.special {
-			background: #83d3c9;
-			border-color: #83d3c9;
+			background: #798aa8;
+			border-color: #ffffff;
 			color: white !important;
 		}
 
 			.button.special:hover {
-				background: #96dad1 !important;
-				border-color: #96dad1 !important;
+				background: #bac5d4 !important;
+				border-color: #ffffff !important;
 			}
 
 		.button.fit {
@@ -565,7 +565,7 @@
 		}
 
 		.wrapper.style2 {
-			background-color: #83d3c9;
+			background-color: #798aa8;
 			background-image: url("images/light-bl.svg"), url("images/light-br.svg");
 			background-position: bottom left, bottom right;
 			background-repeat: no-repeat, no-repeat;
@@ -580,7 +580,7 @@
 			.wrapper.style2 .button.special {
 				background: white;
 				border-color: white;
-				color: #83d3c9 !important;
+				color: #798aa8 !important;
 			}
 
 				.wrapper.style2 .button.special:hover {
@@ -653,6 +653,7 @@
 				#header nav ul li a {
 					border: solid 1px transparent;
 					color: inherit;
+					font-weight: 700;
 					display: inline-block;
 					padding: 0em 0.75em;
 					text-decoration: none;
@@ -764,7 +765,7 @@
 			}
 
 			.dropotron > li:hover > a {
-				background: #83d3c9;
+				background: #798aa8;
 				color: white;
 			}
 
@@ -781,8 +782,8 @@
 
 	#banner {
 		background-attachment: scroll, scroll, scroll, fixed;
-		background-color: #645862;
-		background-image: url("images/light-bl.svg"), url("images/light-br.svg"), url("images/overlay2.png"), url("../images/banner1.jpg");
+		background-color: #798aa8;
+		background-image: url("images/light-bl.svg"), url("images/light-br.svg"), url("images/overlay1.png"), url("../images/banner1c.jpg");
 		background-position: bottom left, bottom right, top left, top center;
 		background-repeat: no-repeat, no-repeat, repeat, no-repeat;
 		background-size: 25em, 25em, auto, cover;
@@ -803,7 +804,7 @@
 			-o-animation-fill-mode: forwards;
 			-ms-animation-fill-mode: forwards;
 			animation-fill-mode: forwards;
-			background: rgba(88, 89, 91, 0.5);
+			background: rgba(102, 108, 124, 0.8);
 			color: white;
 			display: inline-block;
 			opacity: 0;
@@ -826,14 +827,14 @@
 					margin: 0;
 					padding-left: 0.05em;
 					position: relative;
-					text-transform: uppercase;
+					text-transform: none;
 				}
 
 			#banner .inner p {
 				font-weight: 400;
 				letter-spacing: 0.1em;
 				margin: 0;
-				text-transform: uppercase;
+				text-transform: none;
 			}
 
 				#banner .inner p a {
@@ -880,7 +881,7 @@
 
 	#cta {
 		background-attachment: scroll, scroll, scroll, fixed;
-		background-color: #645862;
+		background-color: #798aa8;
 		background-image: url("images/light-tl.svg"), url("images/light-tr.svg"), url("images/overlay2.png"), url("../images/banner2.jpg");
 		background-position: top left, top right, top left, bottom center;
 		background-repeat: no-repeat, no-repeat, repeat, no-repeat;
@@ -898,7 +899,7 @@
 
 	#footer {
 		background: #e8eef4;
-		color: #7c8081;
+		color: #798aa8;
 		padding: 5em 5em 10em 5em;
 		text-align: center;
 	}
