@@ -287,7 +287,7 @@
 			width: 100%;
 		}
 
-		.image:hover {
+		a.image:hover {
 			opacity: 0.7;
 		}
 
@@ -894,6 +894,12 @@
 		#cta header {
 			margin-bottom: 2em;
 		}
+
+/* ACTION BUTTONS */
+
+	#actions a{
+		margin: 0.5em;
+	}
 
 /* Footer */
 
