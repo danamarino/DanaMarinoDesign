@@ -1,0 +1,27 @@
+{
+  "name": "danamarinodesign",
+  "version": "1.0.0",
+  "description": "",
+  "main": "build.js",
+  "dependencies": {
+    "jsdom": "^16.2.2",
+    "prettier": "^2.0.5"
+  },
+  "devDependencies": {
+    "glob": "^7.1.6",
+    "underscore": "^1.10.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danamarino/DanaMarinoDesign.git"
+  },
+  "author": "",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/danamarino/DanaMarinoDesign/issues"
+  },
+  "homepage": "https://github.com/danamarino/DanaMarinoDesign#readme"
+}
