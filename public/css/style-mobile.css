@@ -111,31 +111,10 @@
 			padding: 1.5em 1.5em 3em 1.5em;
 		}
 
-/* Banner */
-
-	#banner {
-		background-size: 10em, 10em, auto, cover;
-		padding: 6em 0;
-	}
-
-		#banner .inner {
-			background: none;
-			display: block;
-			padding: 0 1.5em;
-		}
-
-			#banner .inner header h2 {
-				font-size: 1.5em;
-			}
-
-			#banner .inner p {
-				text-align: center;
-			}
-
-			#banner .inner br {
-				display: none;
-			}
-
+        #banner {
+            background-size: 10em, 10em, auto, cover;
+            min-height: 250px;
+        }
 /* Main */
 
 	#main {

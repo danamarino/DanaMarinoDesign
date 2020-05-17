@@ -2,12 +2,11 @@
   "hosting": {
     "public": "public",
     "cleanUrls": true,
-    "redirects":
-        [ {
-           "source": "/weddings_amanda_jake.html",
-           "destination": "/weddings/amanda_jake_captiva",
-           "type": 301
-         } ]
+    "redirects":[{
+        "source": "/weddings_amanda_jake",
+        "destination": "/weddings/amanda_jake_captiva",
+        "type": 301
+    }]
   },
   "database": {
     "rules": "database.rules.json"

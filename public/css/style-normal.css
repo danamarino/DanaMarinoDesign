@@ -41,13 +41,10 @@
 		margin-left: 1em;
 	}
 
-/* Banner */
-
 	#banner {
-		background-attachment: scroll;
-	}
+        min-height: 600px;
 
-/* CTA */
+	}/* CTA */
 
 	#cta {
 		padding: 4em;
