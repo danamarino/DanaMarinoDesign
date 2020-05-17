@@ -1,4 +1,5 @@
 {
+    "template": "./src/weddings/template.html",
     "head": {
         "title": "Michele & Nick Wedding | Dana Marino Design",
         "description": "Two-color letterpress in grey and coral with silver foil on an oversized invitation for Michele and Nick's chateau-inspired wedding at The Ashford Estate."

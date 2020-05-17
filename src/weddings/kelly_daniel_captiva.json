@@ -1,4 +1,5 @@
 {
+    "template": "./src/weddings/template.html",
     "head": {
         "title": "Kelly & Daniel Wedding | Dana Marino Design",
         "description": "Kelly and Daniel's Captiva Island wedding invitation suite featured romantic vintage florals in a color palette of dusty rose and mauve."

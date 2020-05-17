@@ -1,4 +1,5 @@
 {
+    "template": "./src/weddings/template.html",
     "head": {
         "title": "Ellen & Solomon Wedding | Dana Marino Design",
         "description": "Light blue ombre watercolor and a golden banyan tree monogram for Ellen and Solomon's wedding at a private family estate in Captiva, Florida."

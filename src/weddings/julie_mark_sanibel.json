@@ -1,4 +1,5 @@
 {
+    "template": "./src/weddings/template.html",
     "head": {
         "title": "Julie & Mark Wedding | Dana Marino Design",
         "description": "Bright, bold tropical florals in Julie and Mark's invitation, welcome itinerary booklet, and day of decor for their Sanibel, Florida wedding at Casa Ybel."

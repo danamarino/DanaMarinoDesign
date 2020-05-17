@@ -10,8 +10,8 @@ const files = glob.sync('./src/weddings/**/*.json');
 
 files.forEach(file => {
     const directory = path.dirname(file);
-    const template = readFileSync(`${directory}/template.html`, 'utf8');
     const data = require(file);
+    const template = readFileSync(data.template, 'utf8');
 
     const compiledRoot = _.template(root)(data);
     const compiledTemplate = _.template(template)(data.body);

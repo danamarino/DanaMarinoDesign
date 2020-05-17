@@ -1,4 +1,5 @@
 {
+    "template": "./src/weddings/template.html",
     "head": {
         "title": "Arielle & Jeff Wedding | Dana Marino Design",
         "description": "Blind letterpress and gold foil palms paired with a raffia tie for Arielle and Jeff's Naples beach wedding invitation suite."

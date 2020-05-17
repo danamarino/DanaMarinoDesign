@@ -1,4 +1,5 @@
 {
+    "template": "./src/weddings/template.html",
     "head": {
         "title": "Brittany & Scott Wedding | Dana Marino Design",
         "description": "Clean and classic white and light blue wedding invitations for Brittany and Scott's romantic wedding in Bonita Springs, Florida at Hyatt Regency Coconut Point."
