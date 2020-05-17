@@ -5,8 +5,9 @@ const glob = require('glob');
 const path = require('path');
 
 const root = readFileSync('./src/index.html', 'utf8');
+const dataExtension = '.page.json';
 
-const files = glob.sync('./src/weddings/**/*.json');
+const files = glob.sync(`./src/**/*${dataExtension}`);
 
 files.forEach(file => {
     const directory = path.dirname(file);
@@ -22,7 +23,7 @@ files.forEach(file => {
     dom.window.document.getElementById('template-outlet').appendChild(fragment);
 
     const outDir = directory.replace('src', 'public');
-    const outFile = path.basename(file).replace('json', 'html');
+    const outFile = path.basename(file).replace(dataExtension, '.html');
     const outputPath = `${outDir}/${outFile}`;
 
     if (!existsSync(outDir)) {
