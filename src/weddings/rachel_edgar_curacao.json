@@ -1,0 +1,57 @@
+{
+    "head": {
+        "title": "Rachel & Edgar Wedding | Dana Marino Design",
+        "description": "A Curacao custom map Save the Date and illustrated wedding invitations for Rachel and Edgar's tropical destination wedding."
+    },
+    "body": {
+        "name": "Rachel & Edgar",
+        "description": "A Curacao custom map Save the Date and illustrated wedding invitations for Rachel and Edgar's tropical destination wedding. We used a custom logo throughout the suite featuring the Brazilian and American flags — united by the Curacao flag — to signify the blending of the couple's families. In consideration of their guests, all pieces were created in English and in Portuguese.",
+        "featureImage": {
+            "src": "/images/new-weddings/rachelEdgar/racheledgar_hero.png",
+            "alt": "Navy Blue and Aqua Curacao Wedding Invitation Suite"
+        },
+        "images": [
+            {
+                "src": "/images/new-weddings/rachelEdgar/racheledgar_gallery_01.png",
+                "alt": "Navy Blue and Aqua Curacao Wedding Invitation Suite"
+            },
+            {
+                "src": "/images/new-weddings/rachelEdgar/racheledgar_gallery_02.png",
+                "alt": "Navy Blue and Aqua Curacao Wedding Invitation Suite"
+            },
+            {
+                "src": "/images/new-weddings/rachelEdgar/racheledgar_gallery_03.png",
+                "alt": "Navy Blue and Aqua Curacao Wedding Invitation Suite"
+            },
+            {
+                "src": "/images/new-weddings/rachelEdgar/racheledgar_gallery_08.png",
+                "alt": "Navy Blue and Aqua Curacao Wedding Invitation Suite"
+            },
+            {
+                "src": "/images/new-weddings/rachelEdgar/racheledgar_gallery_04.png",
+                "alt": "Curacao Wedding Map Save the Date"
+            },
+            {
+                "src": "/images/new-weddings/rachelEdgar/racheledgar_gallery_06.png",
+                "alt": "Curacao Wedding Menu and Program"
+            },
+            {
+                "src": "/images/new-weddings/rachelEdgar/racheledgar_gallery_05.png",
+                "alt": "Curacao Wedding Signature Drinks Sign"
+            },
+            {
+                "src": "/images/new-weddings/rachelEdgar/racheledgar_gallery_07.png",
+                "alt": "Curacao Wedding Drink Recipe Cards"
+            }
+        ],
+        "eventDetails": [
+            {
+                "title": "Venue",
+                "link": {
+                    "href": "https://www.avilabeachhotel.com/usa",
+                    "text": "Avila Beach Hotel"
+                }
+            }
+        ]
+    }
+}

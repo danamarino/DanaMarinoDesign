@@ -1,0 +1,63 @@
+{
+    "head": {
+        "title": "Hillary & Pat | Dana Marino Design",
+        "description": "Hillary and Pat's romantic garden wedding at Gasparilla Inn in Boca Grande, Florida featured elegant calligraphy menus and signage."
+    },
+    "body": {
+        "name": "Hillary & Pat",
+        "description": "Hillary and Pat's romantic garden wedding at Gasparilla Inn in Boca Grande, Florida featured elegant calligraphy menus and signage.",
+        "featureImage": {
+            "src": "/images/weddings/galleries/davis_feature.jpg",
+            "alt": "Hillary and Pat Table Numbers"
+        },
+        "images": [
+            {
+                "src": "/images/weddings/galleries/davis_more1.jpg",
+                "alt": "Hillary and Pat Escort Cards"
+            },
+            {
+                "src": "/images/weddings/galleries/davis_more2.jpg",
+                "alt": "Hillary and Pat Place Cards"
+            },
+            {
+                "src": "/images/weddings/galleries/davis_more3.jpg",
+                "alt": "Hillary and Pat Reception Menu"
+            },
+            {
+                "src": "/images/weddings/galleries/davis_more4.jpg",
+                "alt": "Hillary and Pat Reception Menu"
+            },
+            {
+                "src": "/images/weddings/galleries/davis_more5.jpg",
+                "alt": "Hillary and Pat Social Media Sign"
+            },
+            {
+                "src": "/images/weddings/galleries/davis_more6.jpg",
+                "alt": "Hillary and Pat Bar Sign"
+            }
+        ],
+        "eventDetails": [
+            {
+                "title": "Photography",
+                "link": {
+                    "href": "http://hunterryanphoto.com/",
+                    "text": "Hunter Ryan Photo"
+                }
+            },
+            {
+                "title": "Event Design",
+                "link": {
+                    "href": "http://www.fabchicweddings.com/",
+                    "text": "Fabulously Chic Weddings"
+                }
+            },
+            {
+                "title": "Venue",
+                "link": {
+                    "href": "http://www.the-gasparilla-inn.com/",
+                    "text": "The Gasparilla Inn"
+                }
+            }
+        ]
+    }
+}

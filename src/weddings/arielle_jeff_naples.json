@@ -1,8 +1,11 @@
 {
-    "head":{},
+    "head": {
+        "title": "Arielle & Jeff Wedding | Dana Marino Design",
+        "description": "Blind letterpress and gold foil palms paired with a raffia tie for Arielle and Jeff's Naples beach wedding invitation suite."
+    },
     "body": {
-        "name": "Arielle & Jeff Generated",
-        "description": "Blind letterpress and gold foil palms paired with a raffia tie for Arielle and Jeff's Naples beach wedding invitation suite. Day of pieces &mdash; including menus, craft beer bar signs, and escort cards &mdash; were casual and fun with a messy brush script.",
+        "name": "Arielle & Jeff",
+        "description": "Blind letterpress and gold foil palms paired with a raffia tie for Arielle and Jeff's Naples beach wedding invitation suite. Day of pieces — including menus, craft beer bar signs, and escort cards — were casual and fun with a messy brush script.",
         "featureImage": {
             "src": "/images/new-weddings/arielleJeff/ariellejeff_hero.png",
             "alt": "White Gold Foil Palm Tree Wedding Invitation"
@@ -73,10 +76,10 @@
                 }
             },
             {
-                "title": "Photography",
+                "title": "Venue",
                 "link": {
                     "href": "https://www.laplayaresort.com/",
-                    "text": "La Playa Beach &amp; Golf Resort"
+                    "text": "La Playa Beach & Golf Resort"
                 }
             }
         ]

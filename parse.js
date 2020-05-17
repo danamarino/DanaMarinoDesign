@@ -12,22 +12,30 @@ files.forEach(file => {
     const directory = path.dirname(file);
     const template = readFileSync(file, 'utf8');
 
-    const fragment = JSDOM.fragment(template);
+    const dom = new JSDOM(template);
 
-    const name = fragment.querySelector('header.special > h2').textContent.replace('Weddings: ', '');
-    const description = fragment.querySelector('header.special > p').textContent;
-    const featureImageTag = fragment.querySelector('div.image.feature > img');
+    const pageTitle = dom.window.document.querySelector('title').textContent;
+    const pageDescription = dom.window.document.querySelector('meta[name="description"]').getAttribute('content');
+
+    const head = {
+        title: pageTitle,
+        description: pageDescription,
+    };
+
+    const name = dom.window.document.querySelector('header.special > h2').textContent.replace('Weddings: ', '');
+    const description = dom.window.document.querySelector('header.special > p').textContent;
+    const featureImageTag = dom.window.document.querySelector('div.image.feature > img');
     const featureImage = {
         src: featureImageTag.src,
         alt: featureImageTag.alt,
     };
 
-    const images = [...fragment.querySelectorAll('.row img')].map(el => ({
+    const images = [...dom.window.document.querySelectorAll('.row img')].map(el => ({
         src: el.src,
         alt: el.alt,
     }));
 
-    const eventDetails = [...fragment.querySelectorAll('section.details > div > ul > li')].map(el => ({
+    const eventDetails = [...dom.window.document.querySelectorAll('section.details > div > ul > li')].map(el => ({
         title: el.textContent.split(':')[0],
         link: {
             href: el.querySelector('a').href,
@@ -49,5 +57,8 @@ files.forEach(file => {
 
     console.info(`Create: ${outputPath}`)
 
-    writeFileSync(outputPath, JSON.stringify({body}, null, 4), 'utf8');
+    writeFileSync(outputPath, JSON.stringify({
+        head,
+        body
+    }, null, 4), 'utf8');
 });

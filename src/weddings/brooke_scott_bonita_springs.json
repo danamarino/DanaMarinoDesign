@@ -1,0 +1,103 @@
+{
+    "head": {
+        "title": "Brooke & Scott Wedding | Dana Marino Design",
+        "description": "Crisp white and gold foil for Brooke and Scott's classic Bonita Springs, FL destination wedding at Hyatt Coconut Point."
+    },
+    "body": {
+        "name": "Brooke & Scott",
+        "description": "Crisp white and gold foil for Brooke and Scott's classic Bonita Springs, FL destination beach wedding at Hyatt Coconut Point. An elegant monogram and classic gold script was carried through their day of decor, including ceremony programs, event signs, place cards, reception menus, and a custom printed welcome tote bag.",
+        "featureImage": {
+            "src": "/images/new-weddings/brookeScott/brookescott_hero.jpg",
+            "alt": "White and Gold Foil Pocket Invitation"
+        },
+        "images": [
+            {
+                "src": "/images/new-weddings/brookeScott/brookescott_gallery_15.jpg",
+                "alt": "White and Gold Foil Pocket Invitation"
+            },
+            {
+                "src": "/images/new-weddings/brookeScott/brookescott_gallery_01.jpg",
+                "alt": "White and Gold Foil Pocket Invitationn"
+            },
+            {
+                "src": "/images/new-weddings/brookeScott/brookescott_gallery_19.jpg",
+                "alt": "White and Gold Foil Pocket Invitation"
+            },
+            {
+                "src": "/images/new-weddings/brookeScott/brookescott_gallery_20.jpg",
+                "alt": "Bonita Springs Beach Wedding"
+            },
+            {
+                "src": "/images/new-weddings/brookeScott/brookescott_gallery_09.jpg",
+                "alt": "Brush the Beach Gold Wedding Event Sign"
+            },
+            {
+                "src": "/images/new-weddings/brookeScott/brookescott_gallery_11.jpg",
+                "alt": "Bride and Groom Florida Wedding"
+            },
+            {
+                "src": "/images/new-weddings/brookeScott/brookescott_gallery_10.jpg",
+                "alt": "Bride and Groom Florida Wedding Just Married"
+            },
+            {
+                "src": "/images/new-weddings/brookeScott/brookescott_gallery_23.jpg",
+                "alt": "Mirror and Gold Wedding Welcome Sign"
+            },
+            {
+                "src": "/images/new-weddings/brookeScott/brookescott_gallery_26.jpg",
+                "alt": "Florida Wedding Table Floral Centerpiece"
+            },
+            {
+                "src": "/images/new-weddings/brookeScott/brookescott_gallery_33.jpg",
+                "alt": "Gold Wedding Table Numbers"
+            },
+            {
+                "src": "/images/new-weddings/brookeScott/brookescott_gallery_28.jpg",
+                "alt": "Gold Wedding Reception Menu"
+            },
+            {
+                "src": "/images/new-weddings/brookeScott/brookescott_gallery_29.jpg",
+                "alt": "Gold Place Cards Florida Wedding"
+            },
+            {
+                "src": "/images/new-weddings/brookeScott/brookescott_gallery_30.jpg",
+                "alt": "Gold Wedding Reception Menu"
+            },
+            {
+                "src": "/images/new-weddings/brookeScott/brookescott_gallery_34.jpg",
+                "alt": "Gold Monogram Cocktail Napkins"
+            },
+            {
+                "src": "/images/new-weddings/brookeScott/brookescott_gallery_21.jpg",
+                "alt": "Florida Wedding Bride and Groom"
+            },
+            {
+                "src": "/images/new-weddings/brookeScott/brookescott_gallery_22.jpg",
+                "alt": "Florida Wedding Bride and Groom"
+            }
+        ],
+        "eventDetails": [
+            {
+                "title": "Photography",
+                "link": {
+                    "href": "https://www.setfreephotography.com/",
+                    "text": "Set Free Photography"
+                }
+            },
+            {
+                "title": "Event Design",
+                "link": {
+                    "href": "http://www.fabchicweddings.com/",
+                    "text": "Fabulously Chic Weddings"
+                }
+            },
+            {
+                "title": "Venue",
+                "link": {
+                    "href": "https://www.hyatt.com/en-US/hotel/florida/hyatt-regency-coconut-point-resort-and-spa/naprn",
+                    "text": "Hyatt Coconut Point"
+                }
+            }
+        ]
+    }
+}

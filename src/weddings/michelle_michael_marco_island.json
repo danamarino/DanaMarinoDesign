@@ -1,0 +1,80 @@
+{
+    "head": {
+        "title": "Michelle & Michael | Dana Marino Design",
+        "description": "A full wedding stationery collection for a Marco Island wedding, featuring a classic meets contemporary style, with hits of silver foil for shine."
+    },
+    "body": {
+        "name": "Michelle & Michael",
+        "description": "A full wedding stationery collection featuring a classic meets contemporary style, with hits of silver foil for shine. The cool greys and touches of fuschia reflected the couple's modern taste, which was continued throughout the event's floral and decorative details. Featured on Style Me Pretty and in The Knot Florida Magazine.",
+        "featureImage": {
+            "src": "/images/weddings/galleries/mm_feature.jpg",
+            "alt": "Fuschia, Grey and Silver Marco Island Wedding Invitation Suite"
+        },
+        "images": [
+            {
+                "src": "/images/weddings/galleries/mm_more1_lg.jpg",
+                "alt": "Marco Island Wedding Save the Date Map Postcard"
+            },
+            {
+                "src": "/images/weddings/galleries/mm_more2_lg.jpg",
+                "alt": "Fuschia, Grey and Silver Marco Island Wedding Invitation Suite"
+            },
+            {
+                "src": "/images/weddings/galleries/mm_more3_lg.jpg",
+                "alt": "Fuschia, Grey and Silver Marco Island Wedding Invitation Suite"
+            },
+            {
+                "src": "/images/weddings/galleries/mm_more4_lg.jpg",
+                "alt": "Fuschia, Grey and Silver Marco Island Wedding Invitation Suite"
+            },
+            {
+                "src": "/images/weddings/galleries/mm_more5_lg.jpg",
+                "alt": "Fuschia, Grey and Silver Marco Island Wedding Invitation Suite"
+            },
+            {
+                "src": "/images/weddings/galleries/mm_more6_lg.jpg",
+                "alt": "Fuschia, Grey and Silver Marco Island Wedding Invitation Suite"
+            },
+            {
+                "src": "/images/weddings/galleries/mm_more7_lg.jpg",
+                "alt": "Welcome to Marco Island Card"
+            },
+            {
+                "src": "/images/weddings/galleries/mm_more8_lg.jpg",
+                "alt": "Welcome to Marco Island Card"
+            },
+            {
+                "src": "/images/weddings/galleries/mm_more9_lg.jpg",
+                "alt": "Marco Island Wedding Table"
+            },
+            {
+                "src": "/images/weddings/galleries/mm_more10_lg.jpg",
+                "alt": "Marco Island Wedding Fan Programs"
+            },
+            {
+                "src": "/images/weddings/galleries/mm_more11_lg.jpg",
+                "alt": "Fuschia, Grey and Silver Marco Island Wedding Table Number"
+            },
+            {
+                "src": "/images/weddings/galleries/mm_more12_lg.jpg",
+                "alt": "Fuschia, Grey and Silver Marco Island Wedding Menu"
+            }
+        ],
+        "eventDetails": [
+            {
+                "title": "Photography",
+                "link": {
+                    "href": "http://www.justindemutiisphotography.com/",
+                    "text": "Justin DeMutiis Photography"
+                }
+            },
+            {
+                "title": "Event Design",
+                "link": {
+                    "href": "http://www.fabchicweddings.com/",
+                    "text": "Fabulously Chic Weddings"
+                }
+            }
+        ]
+    }
+}

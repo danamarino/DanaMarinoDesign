@@ -1,0 +1,71 @@
+{
+    "head": {
+        "title": "Heather & James | Dana Marino Design",
+        "description": "Luxe mirrored signs, adorned with a custom monogram also featured on menus and escort cards, welcomed guests to Heather and James seaside wedding at Casa Ybel."
+    },
+    "body": {
+        "name": "Heather & James",
+        "description": "Luxe mirrored signs, adorned with a custom monogram also featured on menus and escort cards, welcomed guests to Heather and James seaside wedding at Casa Ybel in Sanibel, Florida.",
+        "featureImage": {
+            "src": "/images/weddings/galleries/hh_feature.jpg",
+            "alt": "Heather and James Mirrored Wedding Welcome Sign"
+        },
+        "images": [
+            {
+                "src": "/images/weddings/galleries/hh_more1.jpg",
+                "alt": "Heather and James Mirrored Wedding Welcome Sign"
+            },
+            {
+                "src": "/images/weddings/galleries/hh_more2.jpg",
+                "alt": "Heather and James Mirrored Wedding Bar Sign"
+            },
+            {
+                "src": "/images/weddings/galleries/hh_more3.jpg",
+                "alt": "Heather and James Monogram Escort Cards"
+            },
+            {
+                "src": "/images/weddings/galleries/hh_more4.jpg",
+                "alt": "Heather and James Monogram Escort Cards"
+            },
+            {
+                "src": "/images/weddings/galleries/hh_more5.jpg",
+                "alt": "Heather and James Table Numbers"
+            },
+            {
+                "src": "/images/weddings/galleries/hh_more6.jpg",
+                "alt": "Heather and James Table Numbers"
+            },
+            {
+                "src": "/images/weddings/galleries/hh_more7.jpg",
+                "alt": "Heather and James Monogram Reception Menu"
+            },
+            {
+                "src": "/images/weddings/galleries/hh_more8.jpg",
+                "alt": "Heather and James Place Cards"
+            }
+        ],
+        "eventDetails": [
+            {
+                "title": "Photography",
+                "link": {
+                    "href": "http://trenholmphoto.com/",
+                    "text": "Austin Trenholm Photography"
+                }
+            },
+            {
+                "title": "Event Design",
+                "link": {
+                    "href": "http://www.fabchicweddings.com/",
+                    "text": "Fabulously Chic Weddings"
+                }
+            },
+            {
+                "title": "Venue",
+                "link": {
+                    "href": "http://www.casaybelresort.com/",
+                    "text": "Casa Ybel Resort"
+                }
+            }
+        ]
+    }
+}

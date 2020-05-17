@@ -1,0 +1,79 @@
+{
+    "head": {
+        "title": "Sara & Jason Wedding | Dana Marino Design",
+        "description": "Sara and Jason's Captiva, FL wedding featured deep jewel tones and mixed metals, inspired by speakeasies, vintage romance, and the island atmosphere."
+    },
+    "body": {
+        "name": "Sara & Jason",
+        "description": "Sara and Jason's Captiva, FL wedding featured deep jewel tones and mixed metals — inspired by speakeasies, vintage romance, and the island atmosphere. Gold foil pressed invitations and table numbers were complimented with a custom deco-inspired seashell pattern in royal purple.",
+        "featureImage": {
+            "src": "/images/new-weddings/saraJason/sarajason_hero.png",
+            "alt": "Purple and Gold Florida Wedding Invitation"
+        },
+        "images": [
+            {
+                "src": "/images/new-weddings/saraJason/sarajason_gallery_12.png",
+                "alt": "Purple and Gold Florida Wedding Invitation"
+            },
+            {
+                "src": "/images/new-weddings/saraJason/sarajason_gallery_01.png",
+                "alt": "Gold Foil Invitation and Wedding Rings"
+            },
+            {
+                "src": "/images/new-weddings/saraJason/sarajason_gallery_02.png",
+                "alt": "Gold Foil Monogram and Wedding Rings"
+            },
+            {
+                "src": "/images/new-weddings/saraJason/sarajason_gallery_10.png",
+                "alt": "Bride and Groom Florida Captiva Wedding"
+            },
+            {
+                "src": "/images/new-weddings/saraJason/sarajason_gallery_03.png",
+                "alt": "Purple Calligraphy Place Cards"
+            },
+            {
+                "src": "/images/new-weddings/saraJason/sarajason_gallery_09.png",
+                "alt": "Purple Red Vintage Wedding Bouquet"
+            },
+            {
+                "src": "/images/new-weddings/saraJason/sarajason_gallery_11.png",
+                "alt": "Bride and Groom Seaside Wedding"
+            },
+            {
+                "src": "/images/new-weddings/saraJason/sarajason_gallery_04.png",
+                "alt": "Purple Calligraphy Place Cards"
+            },
+            {
+                "src": "/images/new-weddings/saraJason/sarajason_gallery_06.png",
+                "alt": "Vintage Tablescape Gold Foil Table Number"
+            },
+            {
+                "src": "/images/new-weddings/saraJason/sarajason_gallery_07.png",
+                "alt": "Vintage Tablescape Gold Foil Table Number"
+            }
+        ],
+        "eventDetails": [
+            {
+                "title": "Photography",
+                "link": {
+                    "href": "https://www.hunterryanphoto.com/",
+                    "text": "Hunter Ryan Photo"
+                }
+            },
+            {
+                "title": "Event Design",
+                "link": {
+                    "href": "https://www.kellymcwilliams.com/",
+                    "text": "Kelly McWilliams"
+                }
+            },
+            {
+                "title": "Venue",
+                "link": {
+                    "href": "https://www.southseas.com/",
+                    "text": "South Seas Island Resort"
+                }
+            }
+        ]
+    }
+}

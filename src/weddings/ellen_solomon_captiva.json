@@ -1,0 +1,95 @@
+{
+    "head": {
+        "title": "Ellen & Solomon Wedding | Dana Marino Design",
+        "description": "Light blue ombre watercolor and a golden banyan tree monogram for Ellen and Solomon's wedding at a private family estate in Captiva, Florida."
+    },
+    "body": {
+        "name": "Ellen & Solomon",
+        "description": "Light blue ombre watercolor and a golden banyan tree monogram for Ellen and Solomon's wedding at a private family estate in Captiva, Florida.",
+        "featureImage": {
+            "src": "/images/new-weddings/ellenSol/ellensol_hero.png",
+            "alt": "Light Blue Watercolor Wedding Invitation"
+        },
+        "images": [
+            {
+                "src": "/images/new-weddings/ellenSol/ellensol_gallery_02.png",
+                "alt": "Light Blue Watercolor Wedding Invitation"
+            },
+            {
+                "src": "/images/new-weddings/ellenSol/ellensol_gallery_04.png",
+                "alt": "Light Blue Watercolor Wedding Invitation Monogram"
+            },
+            {
+                "src": "/images/new-weddings/ellenSol/ellensol_gallery_07.png",
+                "alt": "Welcome to Captiva Wedding Card"
+            },
+            {
+                "src": "/images/new-weddings/ellenSol/ellensol_gallery_15.png",
+                "alt": "Ceremony Arch under Banyan Tree in Captiva"
+            },
+            {
+                "src": "/images/new-weddings/ellenSol/ellensol_gallery_08.png",
+                "alt": "Light Blue Watercolor Wedding Programu"
+            },
+            {
+                "src": "/images/new-weddings/ellenSol/ellensol_gallery_06.png",
+                "alt": "Light Blue Watercolor Wedding Program Inside"
+            },
+            {
+                "src": "/images/new-weddings/ellenSol/ellensol_gallery_17.png",
+                "alt": "Bride and Groom Kissing in Captiva"
+            },
+            {
+                "src": "/images/new-weddings/ellenSol/ellensol_gallery_13.png",
+                "alt": "Wedding Seating Chart"
+            },
+            {
+                "src": "/images/new-weddings/ellenSol/ellensol_gallery_14.png",
+                "alt": "Wedding Seating Chart"
+            },
+            {
+                "src": "/images/new-weddings/ellenSol/ellensol_gallery_09.png",
+                "alt": "Light Blue Watercolor Wedding Menu"
+            },
+            {
+                "src": "/images/new-weddings/ellenSol/ellensol_gallery_11.png",
+                "alt": "Light Blue Watercolor Wedding Table Number"
+            },
+            {
+                "src": "/images/new-weddings/ellenSol/ellensol_gallery_10.png",
+                "alt": "Light Blue Watercolor Wedding Menu"
+            },
+            {
+                "src": "/images/new-weddings/ellenSol/ellensol_gallery_16.png",
+                "alt": "Tropical Floral Centerpiece"
+            },
+            {
+                "src": "/images/new-weddings/ellenSol/ellensol_gallery_12.png",
+                "alt": "Light Blue Watercolor Wedding Place Card"
+            }
+        ],
+        "eventDetails": [
+            {
+                "title": "Photography",
+                "link": {
+                    "href": "https://www.trenholmphoto.com/",
+                    "text": "Austin Trenholm Photo"
+                }
+            },
+            {
+                "title": "Event Design",
+                "link": {
+                    "href": "http://www.fabchicweddings.com/",
+                    "text": "Fabulously Chic Weddings"
+                }
+            },
+            {
+                "title": "Venue",
+                "link": {
+                    "href": "https://www.sanctuarygc.net/",
+                    "text": "The Sanctuary Golf Club"
+                }
+            }
+        ]
+    }
+}

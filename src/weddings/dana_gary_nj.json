@@ -1,0 +1,94 @@
+{
+    "head": {
+        "title": "Dana & Gary Wedding | Dana Marino Design",
+        "description": "Charcoal grey, slate blue and sage green floral accents for Dana and Gary's spring wedding at the Westmount Country Club in Woodland Park, NJ."
+    },
+    "body": {
+        "name": "Dana & Gary",
+        "description": "Charcoal grey, slate blue and sage green floral accents for Dana and Gary's spring wedding at the Westmount Country Club in Woodland Park, NJ. A custom monogram wax seal, welcome itinerary, menus, programs and a mirrored welcome sign carried the classic look throughout the event.",
+        "featureImage": {
+            "src": "/images/new-weddings/danaGary/danagary_hero.png",
+            "alt": "Charcoal Grey Save the Date with Wax Seal"
+        },
+        "images": [
+            {
+                "src": "/images/new-weddings/danaGary/danagary_gallery_07.png",
+                "alt": "Charcoal Grey Wedding Invitation Pocket"
+            },
+            {
+                "src": "/images/new-weddings/danaGary/danagary_gallery_09.png",
+                "alt": "Westmount Country Club Wedding Dress"
+            },
+            {
+                "src": "/images/new-weddings/danaGary/danagary_gallery_18.png",
+                "alt": "Bridal Bouquet Roses"
+            },
+            {
+                "src": "/images/new-weddings/danaGary/danagary_gallery_06.png",
+                "alt": "Charcoal Grey Wedding Invitation Pocket"
+            },
+            {
+                "src": "/images/new-weddings/danaGary/danagary_gallery_04.png",
+                "alt": "Charcoal Grey Wedding Invitation Pocket"
+            },
+            {
+                "src": "/images/new-weddings/danaGary/danagary_gallery_01.png",
+                "alt": "Wedding Ceremony Folded Program"
+            },
+            {
+                "src": "/images/new-weddings/danaGary/danagary_gallery_12.png",
+                "alt": "Bride and Groom"
+            },
+            {
+                "src": "/images/new-weddings/danaGary/danagary_gallery_13.png",
+                "alt": "Wedding Ceremony Folded Program"
+            },
+            {
+                "src": "/images/new-weddings/danaGary/danagary_gallery_14.png",
+                "alt": "Mirror Wedding Welcome Sign"
+            },
+            {
+                "src": "/images/new-weddings/danaGary/danagary_gallery_03.png",
+                "alt": "Floral Wedding Reception Menu"
+            },
+            {
+                "src": "/images/new-weddings/danaGary/danagary_gallery_16.png",
+                "alt": "Mirror Wedding Welcome Sign"
+            },
+            {
+                "src": "/images/new-weddings/danaGary/danagary_gallery_17.png",
+                "alt": "Floral Wedding Reception Menu"
+            }
+        ],
+        "eventDetails": [
+            {
+                "title": "Photography",
+                "link": {
+                    "href": "https://donhwangphoto.com/",
+                    "text": "Olli Studio | Don Hwang Photography"
+                }
+            },
+            {
+                "title": "Venue",
+                "link": {
+                    "href": "https://westmountcc.com/",
+                    "text": "Westmount Country Club"
+                }
+            },
+            {
+                "title": "Hair",
+                "link": {
+                    "href": "https://www.lasorellabridal.com/",
+                    "text": "La Sorella Bridal"
+                }
+            },
+            {
+                "title": "Makeup",
+                "link": {
+                    "href": "https://www.melissadaloiaco.com/",
+                    "text": "Melissa D'Aloia & Co."
+                }
+            }
+        ]
+    }
+}

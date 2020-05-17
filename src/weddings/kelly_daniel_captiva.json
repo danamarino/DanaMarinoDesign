@@ -1,0 +1,95 @@
+{
+    "head": {
+        "title": "Kelly & Daniel Wedding | Dana Marino Design",
+        "description": "Kelly and Daniel's Captiva Island wedding invitation suite featured romantic vintage florals in a color palette of dusty rose and mauve."
+    },
+    "body": {
+        "name": "Kelly & Daniel",
+        "description": "Kelly and Daniel's Captiva Island wedding invitation suite featured romantic florals in a color palette of dusty rose and mauve. The floral illustrations were sourced from the New York Public Library archives, adding an authentic vintage touch.",
+        "featureImage": {
+            "src": "/images/new-weddings/kellyDaniel/kellydaniel_hero.png",
+            "alt": "Vintage Rose Wedding Invitation Suite"
+        },
+        "images": [
+            {
+                "src": "/images/new-weddings/kellyDaniel/kellydaniel_gallery_16.jpg",
+                "alt": "Vintage Rose Wedding Invitation Suite"
+            },
+            {
+                "src": "/images/new-weddings/kellyDaniel/kellydaniel_gallery_15.jpg",
+                "alt": "Vintage Rose Wedding Invitation Suite"
+            },
+            {
+                "src": "/images/new-weddings/kellyDaniel/kellydaniel_gallery_01.jpg",
+                "alt": "Vintage Rose Wedding Invitation Suite"
+            },
+            {
+                "src": "/images/new-weddings/kellyDaniel/kellydaniel_gallery_02.jpg",
+                "alt": "Vintage Rose Wedding Invitation Suite"
+            },
+            {
+                "src": "/images/new-weddings/kellyDaniel/kellydaniel_gallery_03.jpg",
+                "alt": "Vintage Rose Wedding Invitation Suite"
+            },
+            {
+                "src": "/images/new-weddings/kellyDaniel/kellydaniel_gallery_04.jpg",
+                "alt": "Vintage Rose Wedding Invitation Suite"
+            },
+            {
+                "src": "/images/new-weddings/kellyDaniel/kellydaniel_gallery_05.jpg",
+                "alt": "Vintage Rose Wedding Invitation Suite"
+            },
+            {
+                "src": "/images/new-weddings/kellyDaniel/kellydaniel_gallery_06.jpg",
+                "alt": "Vintage Rose Wedding Invitation Suite"
+            },
+            {
+                "src": "/images/new-weddings/kellyDaniel/kellydaniel_gallery_07.jpg",
+                "alt": "Vintage Rose Wedding Invitation Suite"
+            },
+            {
+                "src": "/images/new-weddings/kellyDaniel/kellydaniel_gallery_08.jpg",
+                "alt": "Vintage Rose Wedding Invitation Suite"
+            },
+            {
+                "src": "/images/new-weddings/kellyDaniel/kellydaniel_gallery_12.jpg",
+                "alt": "Vintage Rose Wedding Invitation Suite"
+            },
+            {
+                "src": "/images/new-weddings/kellyDaniel/kellydaniel_gallery_11.jpg",
+                "alt": "Vintage Rose Wedding Escort Card"
+            },
+            {
+                "src": "/images/new-weddings/kellyDaniel/kellydaniel_gallery_13.jpg",
+                "alt": "Vintage Rose Wedding Menu"
+            },
+            {
+                "src": "/images/new-weddings/kellyDaniel/kellydaniel_gallery_14.jpg",
+                "alt": "Vintage Rose Wedding Escort Card"
+            }
+        ],
+        "eventDetails": [
+            {
+                "title": "Photography",
+                "link": {
+                    "href": "https://www.mattsteeves.com/",
+                    "text": "Matt Steeves Photography"
+                }
+            },
+            {
+                "title": "Event Design",
+                "link": {
+                    "href": "https://www.kellymcwilliams.com/",
+                    "text": "Kelly McWilliams"
+                }
+            },
+            {
+                "title": "Venue",
+                "link": {
+                    "href": "https://www.southseas.com/",
+                    "text": "South Seas Island Resort"
+                }
+            }
+        ]
+    }
+}

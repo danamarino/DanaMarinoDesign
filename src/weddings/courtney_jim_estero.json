@@ -1,0 +1,87 @@
+{
+    "head": {
+        "title": "Courtney & Jim | Dana Marino Design",
+        "description": "Bold black and white striped stationery with gold accents for Courtney and Jim's big day at the Club at Grandezza."
+    },
+    "body": {
+        "name": "Courtney & Jim",
+        "description": "Bold black and white striped stationery with gold accents for Courtney and Jim's big day at the Club at Grandezza. Featured in The Celebration Society.",
+        "featureImage": {
+            "src": "/images/weddings/galleries/cj_feature.jpg",
+            "alt": "Black and White Striped Florida Wedding Invitation"
+        },
+        "images": [
+            {
+                "src": "/images/weddings/galleries/cj_more1.jpg",
+                "alt": "Black and White Wedding Invitation Suite Pocket"
+            },
+            {
+                "src": "/images/weddings/galleries/cj_more2_lg.jpg",
+                "alt": "Black and White Wedding Invitation Suite"
+            },
+            {
+                "src": "/images/weddings/galleries/cj_more3_lg.jpg",
+                "alt": "Black and White Wedding Invitation Suite RSVP Card"
+            },
+            {
+                "src": "/images/weddings/galleries/cj_more4_lg.jpg",
+                "alt": "Black and White Wedding Invitation Suite Reception Card"
+            },
+            {
+                "src": "/images/weddings/galleries/cj_more5.jpg",
+                "alt": "Black and White Wedding Ceremony Program"
+            },
+            {
+                "src": "/images/weddings/galleries/cj_more6_lg.jpg",
+                "alt": "Black and White Wedding Table Numbers"
+            },
+            {
+                "src": "/images/weddings/galleries/cj_more7_lg.jpg",
+                "alt": "Black and White Wedding Reception Menu"
+            },
+            {
+                "src": "/images/weddings/galleries/cj_more8.jpg",
+                "alt": "Black and White Wedding Bar Event Signs"
+            },
+            {
+                "src": "/images/weddings/galleries/cj_more9_lg.jpg",
+                "alt": "Black and White Wedding Event Signs"
+            },
+            {
+                "src": "/images/weddings/galleries/cj_more10.jpg",
+                "alt": "Black and White Wedding Table Numbers"
+            },
+            {
+                "src": "/images/weddings/galleries/cj_more11.jpg",
+                "alt": "Black and White Wedding Lucite Card Box"
+            },
+            {
+                "src": "/images/weddings/galleries/cj_more12.jpg",
+                "alt": "Black and White Wedding Social Media Hashtag Sign"
+            }
+        ],
+        "eventDetails": [
+            {
+                "title": "Photography",
+                "link": {
+                    "href": "http://trenholmphoto.com/",
+                    "text": "Austin Trenholm Photography"
+                }
+            },
+            {
+                "title": "Event Design",
+                "link": {
+                    "href": "http://www.fabchicweddings.com/",
+                    "text": "Fabulously Chic Weddings"
+                }
+            },
+            {
+                "title": "Venue",
+                "link": {
+                    "href": "https://www.grandezzacc.com/",
+                    "text": "The Club at Grandezza"
+                }
+            }
+        ]
+    }
+}
