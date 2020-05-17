@@ -1,0 +1,9 @@
+{
+    "template": "./src/stationery-inquiry.html",
+    "head": {
+        "title": "Dana Marino Design - Map Inquiry",
+        "description": "Dana Marino Design offers custom design services for weddings, events, businesses, personal stationery, and more.",
+        "keywords": "design, stationery, wedding, invitations, corporate branding, identity, web design, print design, logo design"
+    },
+    "body": {}
+}

@@ -4,7 +4,7 @@ const _ = require('underscore');
 const glob = require('glob');
 const path = require('path');
 
-const root = readFileSync('./src/index.html', 'utf8');
+const root = readFileSync('./src/root.html', 'utf8');
 const dataExtension = '.page.json';
 
 const files = glob.sync(`./src/**/*${dataExtension}`);
