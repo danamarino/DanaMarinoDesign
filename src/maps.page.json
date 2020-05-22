@@ -1,5 +1,5 @@
 {
-    "template": "./src/maps.html",
+    "template": "maps.html",
     "head": {
         "title": "Dana Marino Design - Custom Maps",
         "description": "Dana Marino Design offers custom design services for weddings, events, businesses, personal stationery, and more.",

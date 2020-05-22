@@ -1,5 +1,5 @@
 {
-    "template": "./src/weddings/template.html",
+    "template": "weddings/template.html",
     "head": {
         "title": "Heather & James | Dana Marino Design",
         "description": "Luxe mirrored signs, adorned with a custom monogram also featured on menus and escort cards, welcomed guests to Heather and James seaside wedding at Casa Ybel."

@@ -1,5 +1,5 @@
 {
-    "template": "./src/weddings/template.html",
+    "template": "weddings/template.html",
     "head": {
         "title": "Emily & Blake Wedding | Dana Marino Design",
         "description": "Rich cobalt blue letterpress on luxe pearl cotton paper for Emily and Blake's romantic autumn wedding at Rock Island Lake Club."

@@ -1,5 +1,5 @@
 {
-    "template": "./src/weddings/template.html",
+    "template": "weddings/template.html",
     "head": {
         "title": "Courtney & Jim | Dana Marino Design",
         "description": "Bold black and white striped stationery with gold accents for Courtney and Jim's big day at the Club at Grandezza."

@@ -1,5 +1,5 @@
 {
-    "template": "./src/weddings/template.html",
+    "template": "weddings/template.html",
     "head": {
         "title": "Dana & Gary Wedding | Dana Marino Design",
         "description": "Charcoal grey, slate blue and sage green floral accents for Dana and Gary's spring wedding at the Westmount Country Club in Woodland Park, NJ."

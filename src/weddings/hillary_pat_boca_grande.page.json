@@ -1,5 +1,5 @@
 {
-    "template": "./src/weddings/template.html",
+    "template": "weddings/template.html",
     "head": {
         "title": "Hillary & Pat | Dana Marino Design",
         "description": "Hillary and Pat's romantic garden wedding at Gasparilla Inn in Boca Grande, Florida featured elegant calligraphy menus and signage."

@@ -1,64 +1,81 @@
 {
-  "hosting": {
-    "public": "public",
-    "cleanUrls": true,
-    "redirects":[{
-        "source": "/weddings_amanda_jake.html",
-        "destination": "/weddings/amanda_jake_captiva",
-        "type": 301
+    "hosting": {
+        "public": "public",
+        "cleanUrls": true,
+        "redirects": [
+            {
+                "source": "/weddings_amanda_jake.html",
+                "destination": "/weddings/amanda_jake_captiva",
+                "type": 301
+            },
+            {
+                "source": "/weddings_shannon_andrew.html",
+                "destination": "/weddings/shannon_andrew_sanibel",
+                "type": 301
+            },
+            {
+                "source": "/weddings_rikki_david.html",
+                "destination": "/weddings/rikki_david_bonita_springs",
+                "type": 301
+            },
+            {
+                "source": "/weddings_hillary_pat.html",
+                "destination": "/weddings/hillary_pat_boca_grande",
+                "type": 301
+            },
+            {
+                "source": "/weddings_kari_cody.html",
+                "destination": "/weddings/kari_cody_sarasota",
+                "type": 301
+            },
+            {
+                "source": "/weddings_heather_james.html",
+                "destination": "/weddings/heather_james_sanibel",
+                "type": 301
+            },
+            {
+                "source": "/weddings_courtney_jim.html",
+                "destination": "/weddings/courtney_jim_estero",
+                "type": 301
+            },
+            {
+                "source": "/weddings_michelle_michael.html",
+                "destination": "/weddings/michelle_michael_marco_island",
+                "type": 301
+            },
+            {
+                "source": "/weddings_jennifer_jason.html",
+                "destination": "/weddings",
+                "type": 301
+            },
+            {
+                "source": "/weddings_nicole_mike.html",
+                "destination": "/weddings",
+                "type": 301
+            },
+            {
+                "source": "/branding.html",
+                "destination": "/",
+                "type": 301
+            }
+        ],
+        "rewrites": [
+            {
+                "source": "**",
+                "function": "compile"
+            }
+        ],
+        "predeploy": [
+            "npm run clean",
+            "npm run build"
+        ]
     },
-    {
-      "source": "/weddings_shannon_andrew.html",
-      "destination": "/weddings/shannon_andrew_sanibel",
-      "type": 301
+    "database": {
+        "rules": "database.rules.json"
     },
-    {
-      "source": "/weddings_rikki_david.html",
-      "destination": "/weddings/rikki_david_bonita_springs",
-      "type": 301
-    },
-    {
-      "source": "/weddings_hillary_pat.html",
-      "destination": "/weddings/hillary_pat_boca_grande",
-      "type": 301
-    },
-    {
-      "source": "/weddings_kari_cody.html",
-      "destination": "/weddings/kari_cody_sarasota",
-      "type": 301
-    },
-    {
-      "source": "/weddings_heather_james.html",
-      "destination": "/weddings/heather_james_sanibel",
-      "type": 301
-    },
-    {
-      "source": "/weddings_courtney_jim.html",
-      "destination": "/weddings/courtney_jim_estero",
-      "type": 301
-    },
-    {
-      "source": "/weddings_michelle_michael.html",
-      "destination": "/weddings/michelle_michael_marco_island",
-      "type": 301
-    },
-    {
-      "source": "/weddings_jennifer_jason.html",
-      "destination": "/weddings",
-      "type": 301
-    },
-    {
-      "source": "/weddings_nicole_mike.html",
-      "destination": "/weddings",
-      "type": 301
-    },
-    {
-      "source": "/branding.html",
-      "destination": "/",
-      "type": 301
-  }]
-  },
-  "database": {
-    "rules": "database.rules.json"
-  }
+    "functions": {
+        "predeploy": [
+            "npm --prefix \"$RESOURCE_DIR\" run lint"
+        ]
+    }
 }

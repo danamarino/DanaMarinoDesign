@@ -1,5 +1,5 @@
 {
-    "template": "./src/weddings/template.html",
+    "template": "weddings/template.html",
     "head": {
         "title": "Rikki & David | Dana Marino Design",
         "description": "A bold, chic black and gold wedding for Rikki and David's event in Bonita Springs, Florida featuring an invitation suite with custom monogram."

@@ -1,5 +1,5 @@
 {
-    "template": "./src/weddings/template.html",
+    "template": "weddings/template.html",
     "head": {
         "title": "Shannon & Andrew | Dana Marino Design",
         "description": "An ocean-inspired invitation suite and event stationery for Shannon and Andrew's wedding in Sanibel, Florida."

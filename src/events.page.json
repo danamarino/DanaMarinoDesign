@@ -1,5 +1,5 @@
 {
-    "template": "./src/events.html",
+    "template": "events.html",
     "head": {
         "title": "Dana Marino Design - Events",
         "description": "Dana Marino Design offers custom designed invitations, stationery, and day of decor for baby showers, bridal showers, parties and special occasions for personal and business use.",

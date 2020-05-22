@@ -1,5 +1,5 @@
 {
-    "template": "./src/weddings/template.html",
+    "template": "weddings/template.html",
     "head": {
         "title": "Sam & John Wedding | Dana Marino Design",
         "description": "Rose gold, blush and cool blue art deco inspired wedding invitations and decor for Samantha and John's Atlantic City, NJ seaside wedding."

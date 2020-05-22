@@ -1,5 +1,5 @@
 {
-    "template": "./src/weddings/template.html",
+    "template": "weddings/template.html",
     "head": {
         "title": "Amanda & Jake Wedding | Dana Marino Design",
         "description": "Day of stationery for Amanda and Jake's modern luxe seaside wedding in Sanibel, Florida."

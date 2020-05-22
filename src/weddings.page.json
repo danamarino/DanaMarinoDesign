@@ -1,5 +1,5 @@
 {
-    "template": "./src/weddings.html",
+    "template": "weddings.html",
     "head": {
         "title": "Dana Marino Design - Weddings",
         "description": "Dana Marino Design offers custom design services for weddings, events, businesses, personal stationery, and more. Wedding design includes wedding invitation suites, pocket invitations, monograms, save the dates, welcome bags, welcome cards and timelines, reception menus, ceremony programs, bar signs, escort cards, place cards, table numbers and more.",

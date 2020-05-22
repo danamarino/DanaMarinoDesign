@@ -1,5 +1,5 @@
 {
-    "template": "./src/contact.html",
+    "template": "contact.html",
     "head": {
         "title": "Dana Marino Design - Contact",
         "description": "Dana Marino Design offers custom design services for weddings, events, businesses, personal stationery, and more.",

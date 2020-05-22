@@ -1,5 +1,5 @@
 {
-    "template": "./src/weddings/template.html",
+    "template": "weddings/template.html",
     "head": {
         "title": "Rachel & Edgar Wedding | Dana Marino Design",
         "description": "A Curacao custom map Save the Date and illustrated wedding invitations for Rachel and Edgar's tropical destination wedding."

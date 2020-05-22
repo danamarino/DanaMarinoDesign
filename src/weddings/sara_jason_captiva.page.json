@@ -1,5 +1,5 @@
 {
-    "template": "./src/weddings/template.html",
+    "template": "weddings/template.html",
     "head": {
         "title": "Sara & Jason Wedding | Dana Marino Design",
         "description": "Sara and Jason's Captiva, FL wedding featured deep jewel tones and mixed metals, inspired by speakeasies, vintage romance, and the island atmosphere."

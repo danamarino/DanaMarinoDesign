@@ -1,5 +1,5 @@
 {
-    "template": "./src/weddings/template.html",
+    "template": "weddings/template.html",
     "head": {
         "title": "Michelle & Michael | Dana Marino Design",
         "description": "A full wedding stationery collection for a Marco Island wedding, featuring a classic meets contemporary style, with hits of silver foil for shine."

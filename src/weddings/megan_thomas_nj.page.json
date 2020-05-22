@@ -1,5 +1,5 @@
 {
-    "template": "./src/weddings/template.html",
+    "template": "weddings/template.html",
     "head": {
         "title": "Megan & Thomas Wedding | Dana Marino Design",
         "description": "A romantic navy blue pocket invitation with gold accents and florals for Megan and Thomas' northern NJ wedding at Westmount Country Club."
