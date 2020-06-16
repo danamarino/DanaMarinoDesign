@@ -1,0 +1,40 @@
+<!-- Main -->
+<article id="main">
+    <header class="special container">
+        <span class="logo"><img src="/images/DM_LOGO.svg" height="90" width="90"/></span>
+        <h1>Weddings: <%= name %></h1>
+        <p><%= description %></p>
+    </header>
+    <!-- One -->
+    <section class="wrapper style3 container special">
+        <div class="image feature"> <!-- Large Image -->
+            <img src="<%= featureImage.src %>" alt="<%= featureImage.alt %>"/>
+        </div>
+        <% images.forEach((image, i) => { %>
+            <% if (i % 2 === 0) { %>
+                <div class="row">
+            <% } %>
+            <div class="6u image feature">
+                <img src="<%= image.src %>" alt="<%= images.alt %>">
+            </div>
+            <% if (i % 2 !== 0) { %>
+                </div>
+            <% } %>
+        <% }) %>
+        <section class= "details">
+            <div>
+                <h2>Event Details</h2>
+                <ul>
+                    <% eventDetails.forEach(eventDetail => { %>
+                        <li><%= eventDetail.title %>: <a href="<%= eventDetail.link.href %>" target="_blank"><%= eventDetail.link.text %></a></li>
+                    <% }) %>
+                </ul>
+            </div>
+            <div id="actions">
+                <a href="/weddings" class="button">View More Weddings</a>
+                <a href="/stationery-inquiry" class="button special">Request a Quote</a>
+            </div>
+        </section>
+    </section>
+</article>
+

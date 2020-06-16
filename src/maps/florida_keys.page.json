@@ -1,0 +1,15 @@
+{
+    "template": "maps/template.html",
+    "head": {
+        "title": "Florida Keys Wedding Map | Dana Marino Design",
+        "description": "Florida Keys custom map highlighting each of the keys, including Key West, Sugarloaf Key, Big Pine Key, Marathon, Islamorada, Plantation Key and Key Largo."
+    },
+    "body": {
+        "name": "Florida Keys",
+        "description": "Florida Keys custom map highlighting each of the keys, including Key West, Sugarloaf Key, Big Pine Key, Marathon, Islamorada, Plantation Key and Key Largo. Sites include Southernmost Point USA, Sparky’s Landing, Dolphin Research Center, Robbie’s, Seven Mile Bridge, and John Pennekamp Coral Reef State Park.",
+        "featureImage": {
+            "src": "/images/new-maps/florida-keys_hero.png",
+            "alt": "Florida Keys Custom Wedding Map"
+        }
+    }
+}

@@ -1,0 +1,49 @@
+{
+    "template": "weddings/template.html",
+    "head": {
+        "title": "Sarah & Matt Wedding | Dana Marino Design",
+        "description": "Splashes of blue watercolor and a custom map of the island welcomed guests to Sarah and Matt's wedding celebration at South Seas Island Resort in Captiva, Florida."
+    },
+    "body": {
+        "name": "Sarah & Matt",
+        "description": "Splashes of blue watercolor and a custom map of the island welcomed guests to Sarah and Matt's wedding celebration at South Seas Island Resort in Captiva, Florida.",
+        "featureImage": {
+            "src": "/images/new-weddings/sarahMatt/sarahmatt_hero_2.png",
+            "alt": "Blue Watercolor Pocket Wedding Invitation"
+        },
+        "images": [
+            {
+                "src": "/images/new-weddings/sarahMatt/sarahmatt_gallery_01.png",
+                "alt": "Blue Watercolor Pocket Wedding Invitation"
+            },
+            {
+                "src": "/images/new-weddings/sarahMatt/sarahmatt_gallery_02.png",
+                "alt": "Blue Watercolor Pocket Wedding Invitation"
+            },
+            {
+                "src": "/images/new-weddings/sarahMatt/sarahmatt_gallery_03.png",
+                "alt": "Blue Watercolor Pocket Wedding Invitation"
+            },
+            {
+                "src": "/images/new-weddings/sarahMatt/sarahmatt_gallery_04.png",
+                "alt": "Blue Watercolor Pocket Wedding Invitation"
+            }
+        ],
+        "eventDetails": [
+            {
+                "title": "Event Design",
+                "link": {
+                    "href": "https://www.kellymcwilliams.com/",
+                    "text": "Kelly McWilliams"
+                }
+            },
+            {
+                "title": "Venue",
+                "link": {
+                    "href": "https://www.southseas.com/",
+                    "text": "South Seas Island Resort"
+                }
+            }
+        ]
+    }
+}

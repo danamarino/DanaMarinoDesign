@@ -1,0 +1,15 @@
+{
+    "template": "maps/template.html",
+    "head": {
+        "title": "Curacao Wedding Map | Dana Marino Design",
+        "description": "Curacao custom map highlighting Avila Beach Hotel, Gouverneur de Rouville, Fort Nassau, Chobolobo, Karakter, Sint Willibrordus, Christoffel Park, Playa Porto Marie."
+    },
+    "body": {
+        "name": "Curacao",
+        "description": "Curacao custom map highlighting Avila Beach Hotel, Gouverneur de Rouville, Fort Nassau, Chobolobo, Karakter, Sint Willibrordus, Christoffel Park, Playa Porto Marie, Westpunt, Queen Emma Bridge, and Klein Curacao.",
+        "featureImage": {
+            "src": "/images/new-maps/curacao_hero.png",
+            "alt": "Curacao Custom Wedding Map"
+        }
+    }
+}

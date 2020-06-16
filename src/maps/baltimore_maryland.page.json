@@ -1,0 +1,15 @@
+{
+    "template": "maps/template.html",
+    "head": {
+        "title": "Baltimore, Maryland Wedding Map | Dana Marino Design",
+        "description": "Baltimore, Maryland custom map highlighting National Aquarium, World Trade Center, Washington Monument, M&T Bank Stadium, Camden Yards, Maryland Science Center."
+    },
+    "body": {
+        "name": "Baltimore, Maryland",
+        "description": "Baltimore, Maryland custom map highlighting National Aquarium, World Trade Center, Washington Monument, M&T Bank Stadium, Camden Yards, Sagamore Spirit Distillery, Maryland Science Center, American Visionary Art Museum, Little Italy, Fort McHenry, Mt. Washington Mill Dye House, and Cylburn Arboretum.",
+        "featureImage": {
+            "src": "/images/new-maps/baltimore_hero.png",
+            "alt": "Baltimore, Maryland Keys Custom Wedding Map"
+        }
+    }
+}

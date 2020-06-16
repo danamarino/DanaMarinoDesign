@@ -1,0 +1,15 @@
+{
+    "template": "maps/template.html",
+    "head": {
+        "title": "Malibu, California Wedding Map | Dana Marino Design",
+        "description": "Malibu, California custom map highlighting nearby cities like Thousand Oaks, Calabasas, Santa Monica, Venice Beach, Beverly Hills, Los Angeles and Hollywood."
+    },
+    "body": {
+        "name": "Malibu, California",
+        "description": "Malibu, California custom map highlighting nearby cities like Thousand Oaks, Calabasas, Santa Monica, Venice Beach, Beverly Hills, Los Angeles and Hollywood. Local spots like Zuma Beach, Santa Monica Pier, Topanga Canyon, Rodeo Drive, Griffith Observatory, and LA Zoo are featured.",
+        "featureImage": {
+            "src": "/images/new-maps/malibu_hero.png",
+            "alt": "Malibu, California Custom Wedding Map"
+        }
+    }
+}

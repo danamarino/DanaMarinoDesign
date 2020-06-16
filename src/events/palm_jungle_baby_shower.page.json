@@ -1,0 +1,15 @@
+{
+    "template": "events/template.html",
+    "head": {
+        "title": "Tropical Jungle Baby Shower Invitation | Dana Marino Design",
+        "description": "A tropical jungle invitation with a palm background and wild animals for a fun baby shower."
+    },
+    "body": {
+        "name": "Tropical Jungle Baby Shower",
+        "description": "A tropical jungle invitation with a palm background and wild animals for a fun baby shower.",
+        "featureImage": {
+            "src": "/images/new-events/innababy_hero.png",
+            "alt": "Palm Tree Jungle Baby Shower Invitation"
+        }
+    }
+}

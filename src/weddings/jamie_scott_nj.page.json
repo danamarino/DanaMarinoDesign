@@ -1,0 +1,65 @@
+{
+    "template": "weddings/template.html",
+    "head": {
+        "title": "Jamie & Scott Wedding | Dana Marino Design",
+        "description": "Romantic cream and black thermography wedding invitations and day of stationery for Jamie and Scott's New Jersey wedding at The Grove."
+    },
+    "body": {
+        "name": "Jamie & Scott",
+        "description": "Romantic cream and black thermography wedding invitations and day of stationery, including reception menus, ceremony programs, and event signage, for Jamie and Scott's New Jersey wedding at The Grove.",
+        "featureImage": {
+            "src": "/images/new-weddings/jamieScott/jamiescott_hero.png",
+            "alt": "Cream and Black Pocket Wedding Invitations"
+        },
+        "images": [
+            {
+                "src": "/images/new-weddings/jamieScott/jamiescott_gallery_01.png",
+                "alt": "Cream and Black Pocket Wedding Invitations and Bridal Bouquet"
+            },
+            {
+                "src": "/images/new-weddings/jamieScott/jamiescott_gallery_09.png",
+                "alt": "Cream and Black Pocket Wedding Invitation Closed"
+            },
+            {
+                "src": "/images/new-weddings/jamieScott/jamiescott_gallery_10.png",
+                "alt": "Cream and Black Pocket Wedding Invitation Suite"
+            },
+            {
+                "src": "/images/new-weddings/jamieScott/jamiescott_gallery_02.png",
+                "alt": "Floral Centerpieces in Ballroom at The Grove"
+            },
+            {
+                "src": "/images/new-weddings/jamieScott/jamiescott_gallery_03.png",
+                "alt": "Reception Menu at The Grove"
+            },
+            {
+                "src": "/images/new-weddings/jamieScott/jamiescott_gallery_07.png",
+                "alt": "Reception Menu and Ceremony Program"
+            },
+            {
+                "src": "/images/new-weddings/jamieScott/jamiescott_gallery_08.png",
+                "alt": "Ceremony Program Opened"
+            },
+            {
+                "src": "/images/new-weddings/jamieScott/jamiescott_gallery_04.png",
+                "alt": "The Grove NJ Bride and Groom in Ballroom"
+            }
+        ],
+        "eventDetails": [
+            {
+                "title": "Photography",
+                "link": {
+                    "href": "https://www.facebook.com/MontclairStudio/",
+                    "text": "Montclair Studio"
+                }
+            },
+            {
+                "title": "Venue",
+                "link": {
+                    "href": "https://www.thegrovenj.com/",
+                    "text": "The Grove"
+                }
+            }
+        ]
+    }
+}

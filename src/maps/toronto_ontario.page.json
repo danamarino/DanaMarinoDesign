@@ -1,0 +1,15 @@
+{
+    "template": "maps/template.html",
+    "head": {
+        "title": "Toronto, Ontario Wedding Map | Dana Marino Design",
+        "description": "Toronto, Ontario custom map highlighting CN Tower, Waterfront, Union Station, City Hall, St. Lawrence Market, Distillery District, Prince’s Gate, Canadian National Exhibition."
+    },
+    "body": {
+        "name": "Toronto, Ontario",
+        "description": "Toronto, Ontario custom map highlighting CN Tower, Waterfront, Union Station, City Hall, St. Lawrence Market, Distillery District, The Jam Factory, Prince’s Gate, Canadian National Exhibition, Toronto Islands, and Lake Ontario. Variations including St. Patrick’s Cathedral, Four Seasons, Rogers Centre, Steam Whistle Brewing also available.",
+        "featureImage": {
+            "src": "/images/new-maps/toronto_hero.png",
+            "alt": "Toronto, Ontario Custom Wedding Map"
+        }
+    }
+}

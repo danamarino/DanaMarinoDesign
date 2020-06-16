@@ -1,0 +1,15 @@
+{
+    "template": "events/template.html",
+    "head": {
+        "title": "Autumn Bridal Shower Invitation | Dana Marino Design",
+        "description": "A soft watercolor bridal shower invitation featuring pumpkins, anemones, and sage green leaves."
+    },
+    "body": {
+        "name": "Autumn Bridal Shower",
+        "description": "A soft watercolor bridal shower invitation featuring pumpkins, anemones, and sage green leaves.",
+        "featureImage": {
+            "src": "/images/new-events/danabridal_hero.png",
+            "alt": "Autumn Floral Pumpkin Bridal Shower"
+        }
+    }
+}

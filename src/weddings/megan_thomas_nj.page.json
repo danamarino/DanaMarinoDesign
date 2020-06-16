@@ -1,0 +1,42 @@
+{
+    "template": "weddings/template.html",
+    "head": {
+        "title": "Megan & Thomas Wedding | Dana Marino Design",
+        "description": "A romantic navy blue pocket invitation with gold accents and florals for Megan and Thomas' northern NJ wedding at Westmount Country Club."
+    },
+    "body": {
+        "name": "Megan & Thomas",
+        "description": "A romantic navy blue pocket invitation with gold accents and florals for Megan and Thomas' northern NJ wedding at Westmount Country Club.",
+        "featureImage": {
+            "src": "/images/new-weddings/meganTommy/megantommy_hero.png",
+            "alt": "Navy and Gold Floral Pocket Invitation"
+        },
+        "images": [
+            {
+                "src": "/images/new-weddings/meganTommy/megantommy_gallery_01.png",
+                "alt": "Navy and Gold Floral Pocket Invitation"
+            },
+            {
+                "src": "/images/new-weddings/meganTommy/megantommy_gallery_03.png",
+                "alt": "Navy and Gold Floral Pocket Invitation"
+            },
+            {
+                "src": "/images/new-weddings/meganTommy/megantommy_gallery_02.png",
+                "alt": "Navy and Gold Floral Pocket Invitation"
+            },
+            {
+                "src": "/images/new-weddings/meganTommy/megantommy_gallery_04.png",
+                "alt": "Navy and Gold Floral Pocket Invitation"
+            }
+        ],
+        "eventDetails": [
+            {
+                "title": "Venue",
+                "link": {
+                    "href": "https://westmountcc.com/",
+                    "text": "Westmount Country Club"
+                }
+            }
+        ]
+    }
+}

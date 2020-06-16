@@ -1,0 +1,15 @@
+{
+    "template": "maps/template.html",
+    "head": {
+        "title": "Jekyll Island, Georgia Wedding Map | Dana Marino Design",
+        "description": "Jekyll Island, Georgia custom map highlighting Jekyll Island Club Resort and Jekyll Ocean Club. Saint Simon’s Island is also featured with St. William Church."
+    },
+    "body": {
+        "name": "Jekyll Island, Georgia",
+        "description": "Jekyll Island, Georgia custom map highlighting Cherokee Cottage, Jekyll Island Club Resort, Crane Cottage and Jekyll Ocean Club. Saint Simon’s Island is also featured with St. William Church.",
+        "featureImage": {
+            "src": "/images/new-maps/jekyll-island_hero.png",
+            "alt": "Jekyll Island, Georgia Custom Wedding Map"
+        }
+    }
+}

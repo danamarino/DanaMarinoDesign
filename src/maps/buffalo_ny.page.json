@@ -1,0 +1,15 @@
+{
+    "template": "maps/template.html",
+    "head": {
+        "title": "Buffalo, New York Wedding Map | Dana Marino Design",
+        "description": "Buffalo, New York custom map highlighting City Hall, The Westin, Resurgence Brewing Co., Canalside, Delaware Park, Peace Bridge, and Lake Erie."
+    },
+    "body": {
+        "name": "Buffalo, New York",
+        "description": "Buffalo, New York custom map highlighting City Hall, The Westin, Resurgence Brewing Co., Canalside, Delaware Park, Peace Bridge, and Lake Erie.",
+        "featureImage": {
+            "src": "/images/new-maps/buffalo_hero.png",
+            "alt": "Buffalo, New York Custom Wedding Map"
+        }
+    }
+}

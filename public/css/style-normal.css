@@ -5,7 +5,7 @@
 */
 
 /* Basic */
-
+@media (max-width: 1280px) {
 	body, input, select, textarea {
 		font-size: 13pt;
 		letter-spacing: 0.025em;
@@ -41,13 +41,10 @@
 		margin-left: 1em;
 	}
 
-/* Banner */
-
 	#banner {
-		background-attachment: scroll;
-	}
+        min-height: 600px;
 
-/* CTA */
+	}/* CTA */
 
 	#cta {
 		padding: 4em;
@@ -59,3 +56,4 @@
 	#footer {
 		padding: 4em;
 	}
+}

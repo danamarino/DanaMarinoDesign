@@ -1,0 +1,73 @@
+{
+    "template": "weddings/template.html",
+    "head": {
+        "title": "Amanda & Jake Wedding | Dana Marino Design",
+        "description": "Day of stationery for Amanda and Jake's modern luxe seaside wedding in Sanibel, Florida."
+    },
+    "body": {
+        "name": "Amanda & Jake",
+        "description": "Day of stationery for Amanda and Jake's modern luxe seaside wedding in Sanibel, Florida. Subtle grey and white stripes with gold accents tied in the gorgeous tablescapes and decor.",
+        "featureImage": {
+            "src": "/images/weddings/galleries/aj_feature.jpg",
+            "alt": "Grey Script Sanibel Wedding Kick off your heels sign"
+        },
+        "images": [
+            {
+                "src": "/images/weddings/galleries/aj_more1.jpg",
+                "alt": "Grey Script Sanibel Wedding Program"
+            },
+            {
+                "src": "/images/weddings/galleries/aj_more2.jpg",
+                "alt": "Grey Script Sanibel Wedding Program"
+            },
+            {
+                "src": "/images/weddings/galleries/aj_more3.jpg",
+                "alt": "Grey Script Sanibel Wedding Yarmulkes Sign"
+            },
+            {
+                "src": "/images/weddings/galleries/aj_more10_lg.jpg",
+                "alt": "Grey Script Sanibel Wedding Escort Card Table"
+            },
+            {
+                "src": "/images/weddings/galleries/aj_more4_lg.jpg",
+                "alt": "Grey Script Sanibel Wedding Escort Cards"
+            },
+            {
+                "src": "/images/weddings/galleries/aj_more5.jpg",
+                "alt": "Grey Script Sanibel Wedding Table Number"
+            },
+            {
+                "src": "/images/weddings/galleries/aj_more6.jpg",
+                "alt": "Grey Script Sanibel Wedding Menu"
+            },
+            {
+                "src": "/images/weddings/galleries/aj_more7.jpg",
+                "alt": "Grey Script Sanibel Wedding Menu"
+            },
+            {
+                "src": "/images/weddings/galleries/aj_more8_lg.jpg",
+                "alt": "Grey Script Sanibel Wedding Guestbook Sign"
+            },
+            {
+                "src": "/images/weddings/galleries/aj_more9_lg.jpg",
+                "alt": "Grey Script Sanibel Wedding Cards Sign"
+            }
+        ],
+        "eventDetails": [
+            {
+                "title": "Photography",
+                "link": {
+                    "href": "http://trenholmphoto.com/",
+                    "text": "Austin Trenholm Photography"
+                }
+            },
+            {
+                "title": "Event Design",
+                "link": {
+                    "href": "http://www.fabchicweddings.com/",
+                    "text": "Fabulously Chic Weddings"
+                }
+            }
+        ]
+    }
+}

@@ -1,0 +1,88 @@
+{
+    "template": "weddings/template.html",
+    "head": {
+        "title": "Arielle & Jeff Wedding | Dana Marino Design",
+        "description": "Blind letterpress and gold foil palms paired with a raffia tie for Arielle and Jeff's Naples beach wedding invitation suite."
+    },
+    "body": {
+        "name": "Arielle & Jeff",
+        "description": "Blind letterpress and gold foil palms paired with a raffia tie for Arielle and Jeff's Naples beach wedding invitation suite. Day of pieces — including menus, craft beer bar signs, and escort cards — were casual and fun with a messy brush script.",
+        "featureImage": {
+            "src": "/images/new-weddings/arielleJeff/ariellejeff_hero.png",
+            "alt": "White Gold Foil Palm Tree Wedding Invitation"
+        },
+        "images": [
+            {
+                "src": "/images/new-weddings/arielleJeff/ariellejeff_gallery_01.png",
+                "alt": "White Wedding Invitation Closed with Raffia"
+            },
+            {
+                "src": "/images/new-weddings/arielleJeff/ariellejeff_gallery_10.png",
+                "alt": "White Gold Foil Palm Tree Wedding Invitation"
+            },
+            {
+                "src": "/images/new-weddings/arielleJeff/ariellejeff_gallery_02.png",
+                "alt": "Naples Beach Wedding Arbor Floral"
+            },
+            {
+                "src": "/images/new-weddings/arielleJeff/ariellejeff_gallery_16.png",
+                "alt": "White Gold Foil Palm Tree Wedding Invitation Details Cards"
+            },
+            {
+                "src": "/images/new-weddings/arielleJeff/ariellejeff_gallery_03.png",
+                "alt": "Escort Card Display"
+            },
+            {
+                "src": "/images/new-weddings/arielleJeff/ariellejeff_gallery_15.png",
+                "alt": "Escort Card Display"
+            },
+            {
+                "src": "/images/new-weddings/arielleJeff/ariellejeff_gallery_14.png",
+                "alt": "Escort Card Display Close-up"
+            },
+            {
+                "src": "/images/new-weddings/arielleJeff/ariellejeff_gallery_08.png",
+                "alt": "Naples Wedding Bride and Groom"
+            },
+            {
+                "src": "/images/new-weddings/arielleJeff/ariellejeff_gallery_13.png",
+                "alt": "Photo Guestbook Wedding Sign in Gold Frame"
+            },
+            {
+                "src": "/images/new-weddings/arielleJeff/ariellejeff_gallery_12.png",
+                "alt": "Craft Beer Bar Wedding Sign in Wooden Frame"
+            },
+            {
+                "src": "/images/new-weddings/arielleJeff/ariellejeff_gallery_07.png",
+                "alt": "Wedding Reception Table Floral Centerpiece"
+            },
+            {
+                "src": "/images/new-weddings/arielleJeff/ariellejeff_gallery_09.png",
+                "alt": "Naples Wedding Reception Menu"
+            }
+        ],
+        "eventDetails": [
+            {
+                "title": "Photography",
+                "link": {
+                    "href": "https://www.trenholmphoto.com/",
+                    "text": "Austin Trenholm Photo"
+                }
+            },
+            {
+                "title": "Event Design",
+                "link": {
+                    "href": "http://www.fabchicweddings.com/",
+                    "text": "Fabulously Chic Weddings"
+                }
+            },
+            {
+                "title": "Venue",
+                "link": {
+                    "href": "https://www.laplayaresort.com/",
+                    "text": "La Playa Beach & Golf Resort"
+                }
+            }
+        ]
+    }
+}

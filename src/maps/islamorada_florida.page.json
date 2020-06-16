@@ -1,0 +1,15 @@
+{
+    "template": "maps/template.html",
+    "head": {
+        "title": "Islamorada, Florida Wedding Map | Dana Marino Design",
+        "description": "Islamorada, Florida custom map highlighting Islander Resort, Lorelei Restaurant, and Pierre’s at Morada Bay along with local fish like Mahi Mahi and Tarpon. "
+    },
+    "body": {
+        "name": "Islamorada, Florida",
+        "description": "Islamorada, Florida custom map highlighting Islander Resort, Lorelei Restaurant, and Pierre’s at Morada Bay along with local fish like Mahi Mahi and Tarpon. ",
+        "featureImage": {
+            "src": "/images/new-maps/islamorada_hero.png",
+            "alt": "Islamorada, Florida Custom Wedding Map"
+        }
+    }
+}

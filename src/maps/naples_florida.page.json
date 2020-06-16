@@ -1,0 +1,15 @@
+{
+    "template": "maps/template.html",
+    "head": {
+        "title": "Naples, Florida Wedding Map | Dana Marino Design",
+        "description": "Naples, Florida custom map highlighting The Naples Beach Hotel and Golf Club, The Inn on Fifth, St. Ann Catholic Church, Naples Pier, Sea Salt, and Royal Poinciana Golf Club."
+    },
+    "body": {
+        "name": "Naples, Florida",
+        "description": "Naples, Florida custom map highlighting The Naples Beach Hotel and Golf Club, The Inn on Fifth, St. Ann Catholic Church, Naples Pier, Sea Salt, and Royal Poinciana Golf Club.",
+        "featureImage": {
+            "src": "/images/new-maps/naples_hero.png",
+            "alt": "Naples, Florida Custom Wedding Map"
+        }
+    }
+}

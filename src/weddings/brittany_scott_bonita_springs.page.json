@@ -1,0 +1,80 @@
+{
+    "template": "weddings/template.html",
+    "head": {
+        "title": "Brittany & Scott Wedding | Dana Marino Design",
+        "description": "Clean and classic white and light blue wedding invitations for Brittany and Scott's romantic wedding in Bonita Springs, Florida at Hyatt Regency Coconut Point."
+    },
+    "body": {
+        "name": "Brittany & Scott",
+        "description": "Clean and classic white and light blue wedding invitations for Brittany and Scott's romantic wedding in Bonita Springs, Florida at Hyatt Regency Coconut Point. Day of stationery included ceremony programs, reception menus, and a seating chart sign with modern grey calligraphy and subtle blue watercolor swashes.",
+        "featureImage": {
+            "src": "/images/new-weddings/brittanyScott/brittanyscott_hero.png",
+            "alt": "White and Light Blue Stacked Wedding Invitation with Belly Band"
+        },
+        "images": [
+            {
+                "src": "/images/new-weddings/brittanyScott/brittanyscott_gallery_10.png",
+                "alt": "White and Light Blue Wedding Invitation Suite"
+            },
+            {
+                "src": "/images/new-weddings/brittanyScott/brittanyscott_gallery_11.png",
+                "alt": "White and Light Blue Wedding Menu"
+            },
+            {
+                "src": "/images/new-weddings/brittanyScott/brittanyscott_gallery_02.png",
+                "alt": "White and Light Blue Wedding Invitation Suite with Rings"
+            },
+            {
+                "src": "/images/new-weddings/brittanyScott/brittanyscott_gallery_04.png",
+                "alt": "White and Light Blue Wedding Invitation Suite with Rings and Jewelry"
+            },
+            {
+                "src": "/images/new-weddings/brittanyScott/brittanyscott_gallery_12.png",
+                "alt": "Wedding Ceremony Floral Arbor"
+            },
+            {
+                "src": "/images/new-weddings/brittanyScott/brittanyscott_gallery_06.png",
+                "alt": "Wedding Program with Grey Text"
+            },
+            {
+                "src": "/images/new-weddings/brittanyScott/brittanyscott_gallery_13.png",
+                "alt": "Bonita Springs Wedding Bride and Groom"
+            },
+            {
+                "src": "/images/new-weddings/brittanyScott/brittanyscott_gallery_05.png",
+                "alt": "White and Light Blue Watercolor Wedding Seating Chart"
+            },
+            {
+                "src": "/images/new-weddings/brittanyScott/brittanyscott_gallery_07.png",
+                "alt": "White and Light Blue Watercolor Wedding Menu"
+            },
+            {
+                "src": "/images/new-weddings/brittanyScott/brittanyscott_gallery_08.png",
+                "alt": "White and Light Blue Watercolor Wedding Menu"
+            }
+        ],
+        "eventDetails": [
+            {
+                "title": "Photography",
+                "link": {
+                    "href": "http://www.exposephotos.com/",
+                    "text": "Expose Photography"
+                }
+            },
+            {
+                "title": "Event Design",
+                "link": {
+                    "href": "http://www.fabchicweddings.com/",
+                    "text": "Fabulously Chic Weddings"
+                }
+            },
+            {
+                "title": "Venue",
+                "link": {
+                    "href": "https://www.hyatt.com/en-US/hotel/florida/hyatt-regency-coconut-point-resort-and-spa/naprn",
+                    "text": "Hyatt Regency Coconut Point"
+                }
+            }
+        ]
+    }
+}

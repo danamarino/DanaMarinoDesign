@@ -1,0 +1,15 @@
+{
+    "template": "maps/template.html",
+    "head": {
+        "title": "St. Petersburg, Florida Wedding Map | Dana Marino Design",
+        "description": "St. Petersburg, Florida custom map highlighting St. Petersburg Yacht Club, First United Methodist Church, St. Pete Beach, and Tampa Bay."
+    },
+    "body": {
+        "name": "St. Petersburg, Florida",
+        "description": "St. Petersburg, Florida custom map highlighting St. Petersburg Yacht Club, First United Methodist Church, St. Pete Beach, and Tampa Bay.",
+        "featureImage": {
+            "src": "/images/new-maps/stpetersburg_hero.png",
+            "alt": "St. Petersburg, Florida Custom Wedding Map"
+        }
+    }
+}

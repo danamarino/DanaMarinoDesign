@@ -1,0 +1,15 @@
+{
+    "template": "maps/template.html",
+    "head": {
+        "title": "Annapolis, Maryland Wedding Map | Dana Marino Design",
+        "description": "Annapolis, Maryland custom map highlighting US Naval Academy Chapel, The Westin, and the Chesapeake Bay also features a Navy helicopter and the area’s local crabs."
+    },
+    "body": {
+        "name": "Annapolis, Maryland",
+        "description": "Annapolis, Maryland custom map highlighting US Naval Academy Chapel, The Westin, and the Chesapeake Bay also features a Navy helicopter and the area’s local crabs.",
+        "featureImage": {
+            "src": "/images/new-maps/annapolis_hero.png",
+            "alt": "Annapolis, Maryland Custom Wedding Map"
+        }
+    }
+}

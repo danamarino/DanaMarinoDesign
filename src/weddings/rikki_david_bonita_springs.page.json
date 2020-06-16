@@ -1,0 +1,88 @@
+{
+    "template": "weddings/template.html",
+    "head": {
+        "title": "Rikki & David | Dana Marino Design",
+        "description": "A bold, chic black and gold wedding for Rikki and David's event in Bonita Springs, Florida featuring an invitation suite with custom monogram."
+    },
+    "body": {
+        "name": "Rikki & David",
+        "description": "A bold, chic black and gold wedding for Rikki and David's event in Bonita Springs, Florida featuring an invitation suite with custom monogram and day-of pieces to tie together the glam look.",
+        "featureImage": {
+            "src": "/images/weddings/galleries/rf_feature.jpg",
+            "alt": "Rikki and David Invitation Suite Front"
+        },
+        "images": [
+            {
+                "src": "/images/weddings/galleries/rf_more1.jpg",
+                "alt": "Rikki and David Invitation Suite Inside"
+            },
+            {
+                "src": "/images/weddings/galleries/rf_more2.jpg",
+                "alt": "Rikki and David Invitation Suite Inside"
+            },
+            {
+                "src": "/images/weddings/galleries/rf_more3.jpg",
+                "alt": "Rikki and David Escort Card Table"
+            },
+            {
+                "src": "/images/weddings/galleries/rf_more4.jpg",
+                "alt": "Rikki and David Escort Card Sign"
+            },
+            {
+                "src": "/images/weddings/galleries/rf_more5.jpg",
+                "alt": "Rikki and David Escort Card"
+            },
+            {
+                "src": "/images/weddings/galleries/rf_more6.jpg",
+                "alt": "Rikki and David Escort Card"
+            },
+            {
+                "src": "/images/weddings/galleries/rf_more7.jpg",
+                "alt": "Rikki and David Escort Card"
+            },
+            {
+                "src": "/images/weddings/galleries/rf_more8.jpg",
+                "alt": "Rikki and David Welcome Sign"
+            },
+            {
+                "src": "/images/weddings/galleries/rf_more9.jpg",
+                "alt": "Rikki and David Reception Menu"
+            },
+            {
+                "src": "/images/weddings/galleries/rf_more10.jpg",
+                "alt": "Rikki and David Table Numbers"
+            },
+            {
+                "src": "/images/weddings/galleries/rf_more11.jpg",
+                "alt": "Rikki and David Cheers Bar Sign"
+            },
+            {
+                "src": "/images/weddings/galleries/rf_more12.jpg",
+                "alt": "Rikki and David Cheers Bar Sign"
+            }
+        ],
+        "eventDetails": [
+            {
+                "title": "Photography",
+                "link": {
+                    "href": "http://trenholmphoto.com/",
+                    "text": "Austin Trenholm Photography"
+                }
+            },
+            {
+                "title": "Event Design",
+                "link": {
+                    "href": "http://www.fabchicweddings.com/",
+                    "text": "Fabulously Chic Weddings"
+                }
+            },
+            {
+                "title": "Venue",
+                "link": {
+                    "href": "http://coconutpoint.hyatt.com/en/hotel/home.html",
+                    "text": "Hyatt Regency Coconut Point"
+                }
+            }
+        ]
+    }
+}

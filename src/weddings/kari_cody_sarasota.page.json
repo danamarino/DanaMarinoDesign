@@ -1,0 +1,72 @@
+{
+    "template": "weddings/template.html",
+    "head": {
+        "title": "Kari & Cody | Dana Marino Design",
+        "description": "Black, gold, and ivory art-deco inspired invitation suite and 'day of' stationery for Kari and Cody's glamorous wedding in Sarasota, Florida."
+    },
+    "body": {
+        "name": "Kari & Cody",
+        "description": "Invitation suite and 'day of' stationery for Kari and Cody's glamorous wedding in Sarasota, Florida. Customized lettering and deco-inspired graphics bring a touch of the 20's to this modern, elegant event. Featured on Style Me Pretty and Carats and Cake.",
+        "featureImage": {
+            "src": "/images/weddings/galleries/kc_feature.jpg",
+            "alt": "Black Ivory Gold Deco Wedding Invitation"
+        },
+        "images": [
+            {
+                "src": "/images/weddings/galleries/kc_more1_lg.jpg",
+                "alt": "Black Ivory Gold Deco Wedding Invitation"
+            },
+            {
+                "src": "/images/weddings/galleries/kc_more2.jpg",
+                "alt": "Black Ivory Gold Deco Wedding Invitation"
+            },
+            {
+                "src": "/images/weddings/galleries/kc_more3_lg.jpg",
+                "alt": "Black Ivory Gold Deco Wedding Invitation"
+            },
+            {
+                "src": "/images/weddings/galleries/kc_more4.jpg",
+                "alt": "Black Ivory Gold Deco Wedding Bar Sign"
+            },
+            {
+                "src": "/images/weddings/galleries/kc_more5_lg.jpg",
+                "alt": "Black Ivory Gold Deco Wedding Table Number"
+            },
+            {
+                "src": "/images/weddings/galleries/kc_more6_lg.jpg",
+                "alt": "Black Ivory Gold Deco Wedding Table Number"
+            },
+            {
+                "src": "/images/weddings/galleries/kc_more7.jpg",
+                "alt": "Black Ivory Gold Deco Wedding Menu"
+            },
+            {
+                "src": "/images/weddings/galleries/kc_more8_lg.jpg",
+                "alt": "Black Ivory Gold Deco Wedding Menu"
+            }
+        ],
+        "eventDetails": [
+            {
+                "title": "Photography",
+                "link": {
+                    "href": "http://www.justindemutiisphotography.com/",
+                    "text": "Justin DeMutiis Photography"
+                }
+            },
+            {
+                "title": "Event Design",
+                "link": {
+                    "href": "http://www.fabchicweddings.com/",
+                    "text": "Fabulously Chic Weddings"
+                }
+            },
+            {
+                "title": "Venue",
+                "link": {
+                    "href": "https://www.bradentongulfislands.com/special-event-services/crosley-estate",
+                    "text": "Powel Crosley Estate"
+                }
+            }
+        ]
+    }
+}

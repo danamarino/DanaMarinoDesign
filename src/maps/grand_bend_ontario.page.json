@@ -1,0 +1,15 @@
+{
+    "template": "maps/template.html",
+    "head": {
+        "title": "Grand Bend, Ontario Wedding Map | Dana Marino Design",
+        "description": "Grand Bend, Ontario custom map featuring Dark Horse Estate Winery, Oakwood Park, Oakwood Resort, Main Street, Grand Bend Beach, and Lake Huron."
+    },
+    "body": {
+        "name": "Grand Bend, Ontario",
+        "description": "Grand Bend, Ontario custom map featuring Dark Horse Estate Winery, Oakwood Park, Oakwood Resort, Main Street, Grand Bend Beach, and Lake Huron.",
+        "featureImage": {
+            "src": "/images/new-maps/grand-bend_hero.png",
+            "alt": "Grand Bend, Ontario Custom Wedding Map"
+        }
+    }
+}

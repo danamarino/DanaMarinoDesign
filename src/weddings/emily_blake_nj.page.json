@@ -1,0 +1,57 @@
+{
+    "template": "weddings/template.html",
+    "head": {
+        "title": "Emily & Blake Wedding | Dana Marino Design",
+        "description": "Rich cobalt blue letterpress on luxe pearl cotton paper for Emily and Blake's romantic autumn wedding at Rock Island Lake Club."
+    },
+    "body": {
+        "name": "Emily & Blake",
+        "description": "Rich cobalt blue letterpress on luxe pearl cotton paper for Emily and Blake's romantic autumn wedding at Rock Island Lake Club.",
+        "featureImage": {
+            "src": "/images/new-weddings/emilyBlake/emilyblake_hero.png",
+            "alt": "Cobalt Blue Letterpress Wedding Invitation Suite and Menu"
+        },
+        "images": [
+            {
+                "src": "/images/new-weddings/emilyBlake/emilyblake_gallery_01.png",
+                "alt": "Grey and Cobalt Blue Letterpress Save the Date"
+            },
+            {
+                "src": "/images/new-weddings/emilyBlake/emilyblake_gallery_05.png",
+                "alt": "Bride and Groom First Look - Images by Berit"
+            },
+            {
+                "src": "/images/new-weddings/emilyBlake/emilyblake_gallery_06.png",
+                "alt": "Blue Bridesmaids - Images by Berit"
+            },
+            {
+                "src": "/images/new-weddings/emilyBlake/emilyblake_gallery_02.png",
+                "alt": "Cobalt Blue Letterpress Wedding Invitation Suite"
+            },
+            {
+                "src": "/images/new-weddings/emilyBlake/emilyblake_gallery_03.png",
+                "alt": "Cobalt Blue Letterpress Wedding Invitation Suite and Menu"
+            },
+            {
+                "src": "/images/new-weddings/emilyBlake/emilyblake_gallery_07.png",
+                "alt": "Rock Island Wedding Floral Arbor Autumn - Images by Berit"
+            }
+        ],
+        "eventDetails": [
+            {
+                "title": "Photography",
+                "link": {
+                    "href": "https://www.imagesbyberit.com/",
+                    "text": "Images by Berit"
+                }
+            },
+            {
+                "title": "Venue",
+                "link": {
+                    "href": "https://www.rockislandlakeclub.com/",
+                    "text": "Rock Island Lake Club"
+                }
+            }
+        ]
+    }
+}

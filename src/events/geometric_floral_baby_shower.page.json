@@ -1,0 +1,15 @@
+{
+    "template": "events/template.html",
+    "head": {
+        "title": "Geometric Floral Baby Shower Invitation | Dana Marino Design",
+        "description": "Blush floral blooms and geometric framed &quot;It's a Girl&quot; lettering for a sweet baby shower invitation."
+    },
+    "body": {
+        "name": "Geometric Floral Baby Shower",
+        "description": "Blush floral blooms and a geometric framed &quot;It's a Girl&quot; lettering for a sweet baby shower invitation.",
+        "featureImage": {
+            "src": "/images/new-events/dianababy_hero.png",
+            "alt": "Geometric Floral Girl Baby Shower Invitation"
+        }
+    }
+}

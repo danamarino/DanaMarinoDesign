@@ -1,0 +1,120 @@
+{
+    "template": "weddings/template.html",
+    "head": {
+        "title": "Sam & John Wedding | Dana Marino Design",
+        "description": "Rose gold, blush and cool blue art deco inspired wedding invitations and decor for Samantha and John's Atlantic City, NJ seaside wedding."
+    },
+    "body": {
+        "name": "Sam & John",
+        "description": "A gorgeous palette of rose gold, blush and cool blue for Samantha and John's art deco-inspired seaside wedding in Atlantic City, New Jersey. A vintage postcard Save the Date, custom welcome map, and art deco-patterned details (with cameos by their dogs Ollie and Lola) made their event truly one-of-a-kind.",
+        "featureImage": {
+            "src": "/images/new-weddings/samJohn/samjohn_hero_2.png",
+            "alt": "Rose Gold Deco Wedding Invitation"
+        },
+        "images": [
+            {
+                "src": "/images/new-weddings/samJohn/samjohn_gallery_34.jpg",
+                "alt": "Rose Gold Deco Wedding Invitation Details Card"
+            },
+            {
+                "src": "/images/new-weddings/samJohn/samjohn_gallery_32.jpg",
+                "alt": "Rose Gold Deco Wedding Invitation"
+            },
+            {
+                "src": "/images/new-weddings/samJohn/samjohn_gallery_03.jpg",
+                "alt": "Rose Gold Deco Wedding Invitation"
+            },
+            {
+                "src": "/images/new-weddings/samJohn/samjohn_gallery_08.jpg",
+                "alt": "Rose Gold Wedding Invitation Vellum Wrap Wax Seal"
+            },
+            {
+                "src": "/images/new-weddings/samJohn/samjohn_gallery_01.jpg",
+                "alt": "Rose Gold Deco Wedding Invitation"
+            },
+            {
+                "src": "/images/new-weddings/samJohn/samjohn_gallery_04.jpg",
+                "alt": "Rose Gold Deco Wedding Invitation"
+            },
+            {
+                "src": "/images/new-weddings/samJohn/samjohn_gallery_05.jpg",
+                "alt": "Dusty Rose Vintage Postage Invitation Envelope"
+            },
+            {
+                "src": "/images/new-weddings/samJohn/samjohn_gallery_07.jpg",
+                "alt": "Atlantic City Vintage Save the Date Postcard"
+            },
+            {
+                "src": "/images/new-weddings/samJohn/samjohn_gallery_26.jpg",
+                "alt": "Deco Bohemian Floral Bouquet"
+            },
+            {
+                "src": "/images/new-weddings/samJohn/samjohn_gallery_31.jpg",
+                "alt": "Atlantic City Welcome Wedding Map"
+            },
+            {
+                "src": "/images/new-weddings/samJohn/samjohn_gallery_27.jpg",
+                "alt": "Art Deco Wedding Program"
+            },
+            {
+                "src": "/images/new-weddings/samJohn/samjohn_gallery_13.jpg",
+                "alt": "Atlantic City Wedding Bride and Groom"
+            },
+            {
+                "src": "/images/new-weddings/samJohn/samjohn_gallery_10.jpg",
+                "alt": "Atlantic City Wedding Bride and Groom Boardwalk"
+            },
+            {
+                "src": "/images/new-weddings/samJohn/samjohn_gallery_15.jpg",
+                "alt": "Rose Gold Deco Find Your Seat Wedding Sign"
+            },
+            {
+                "src": "/images/new-weddings/samJohn/samjohn_gallery_20.jpg",
+                "alt": "Rose Gold Deco Signature Drinks Wedding Sign"
+            },
+            {
+                "src": "/images/new-weddings/samJohn/samjohn_gallery_29.jpg",
+                "alt": "Deco Bohemian Floral Wedding Cake"
+            },
+            {
+                "src": "/images/new-weddings/samJohn/samjohn_gallery_30.png",
+                "alt": "Deco Wedding Reception Menu"
+            },
+            {
+                "src": "/images/new-weddings/samJohn/samjohn_gallery_19.jpg",
+                "alt": "Deco Wedding Donation Card Pets"
+            },
+            {
+                "src": "/images/new-weddings/samJohn/samjohn_gallery_17.jpg",
+                "alt": "Atlantic City Bohemian Floral Table Centerpiece"
+            },
+            {
+                "src": "/images/new-weddings/samJohn/samjohn_gallery_22.jpg",
+                "alt": "Atlantic City Bride and Groom Boardwalk"
+            }
+        ],
+        "eventDetails": [
+            {
+                "title": "Photography",
+                "link": {
+                    "href": "https://www.nikkiandchip.com/",
+                    "text": "Nikki & Chip Photography"
+                }
+            },
+            {
+                "title": "Floral",
+                "link": {
+                    "href": "https://www.cassandrashahflowers.com/",
+                    "text": "Cassandra Shah Flowers"
+                }
+            },
+            {
+                "title": "Venue",
+                "link": {
+                    "href": "https://oneatlanticevents.com/",
+                    "text": "One Atlantic"
+                }
+            }
+        ]
+    }
+}

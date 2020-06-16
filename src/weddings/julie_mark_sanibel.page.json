@@ -1,0 +1,128 @@
+{
+    "template": "weddings/template.html",
+    "head": {
+        "title": "Julie & Mark Wedding | Dana Marino Design",
+        "description": "Bright, bold tropical florals in Julie and Mark's invitation, welcome itinerary booklet, and day of decor for their Sanibel, Florida wedding at Casa Ybel."
+    },
+    "body": {
+        "name": "Julie & Mark",
+        "description": "Bright, bold tropical florals were featured in Julie and Mark's invitation, welcome itinerary booklet, and day of decor for their Sanibel, Florida wedding at Casa Ybel.",
+        "featureImage": {
+            "src": "/images/new-weddings/julieMark/juliemark_hero_2.jpg",
+            "alt": "Sanibel Island Wedding Welcome Booklet"
+        },
+        "images": [
+            {
+                "src": "/images/new-weddings/julieMark/juliemark_gallery_06.png",
+                "alt": "Sanibel Floral Wedding Invitation"
+            },
+            {
+                "src": "/images/new-weddings/julieMark/juliemark_gallery_02.png",
+                "alt": "Sanibel Wedding Invitation Pocket"
+            },
+            {
+                "src": "/images/new-weddings/julieMark/juliemark_gallery_03.png",
+                "alt": "Sanibel Wedding Invitation Pocket and Envelope"
+            },
+            {
+                "src": "/images/new-weddings/julieMark/juliemark_gallery_08.png",
+                "alt": "Sanibel Wedding Invitation Details Card"
+            },
+            {
+                "src": "/images/new-weddings/julieMark/juliemark_gallery_14.png",
+                "alt": "Sanibel Island Wedding Welcome Booklet"
+            },
+            {
+                "src": "/images/new-weddings/julieMark/juliemark_gallery_16.png",
+                "alt": "Sanibel Island Wedding Welcome Booklet Things to Do Page"
+            },
+            {
+                "src": "/images/new-weddings/julieMark/juliemark_gallery_17.png",
+                "alt": "Sanibel Island Wedding Welcome Booklet Local Map"
+            },
+            {
+                "src": "/images/new-weddings/julieMark/juliemark_gallery_18.png",
+                "alt": "Sanibel Island Wedding Welcome Booklet Monogram"
+            },
+            {
+                "src": "/images/new-weddings/julieMark/juliemark_gallery_12.png",
+                "alt": "Sanibel Island Wedding Welcome Tote Bag"
+            },
+            {
+                "src": "/images/new-weddings/julieMark/juliemark_gallery_13.png",
+                "alt": "Sanibel Island Wedding Welcome Tote Bag"
+            },
+            {
+                "src": "/images/new-weddings/julieMark/juliemark_gallery_19.png",
+                "alt": "Sanibel Best Day Ever Wedding Welcome Sign"
+            },
+            {
+                "src": "/images/new-weddings/julieMark/juliemark_gallery_22.png",
+                "alt": "Sanibel Wedding Tropical Florals"
+            },
+            {
+                "src": "/images/new-weddings/julieMark/juliemark_gallery_23.png",
+                "alt": "Sanibel Wedding Petal Fan Program"
+            },
+            {
+                "src": "/images/new-weddings/julieMark/juliemark_gallery_24.png",
+                "alt": "Sanibel Wedding Petal Fan Program"
+            },
+            {
+                "src": "/images/new-weddings/julieMark/juliemark_gallery_25.png",
+                "alt": "Sanibel Wedding Bride and Groom"
+            },
+            {
+                "src": "/images/new-weddings/julieMark/juliemark_gallery_26.png",
+                "alt": "Sanibel Wedding Cards and Gifts Event Sign"
+            },
+            {
+                "src": "/images/new-weddings/julieMark/juliemark_gallery_27.png",
+                "alt": "Sanibel Wedding Guestbook Event Sign"
+            },
+            {
+                "src": "/images/new-weddings/julieMark/juliemark_gallery_29.png",
+                "alt": "Sanibel Wedding Map Guestbook Poster"
+            },
+            {
+                "src": "/images/new-weddings/julieMark/juliemark_gallery_31.png",
+                "alt": "Sanibel Wedding Tropical Floral Bouquet"
+            },
+            {
+                "src": "/images/new-weddings/julieMark/juliemark_gallery_32.png",
+                "alt": "Sanibel Wedding Floral Reception Menu"
+            },
+            {
+                "src": "/images/new-weddings/julieMark/juliemark_gallery_34.png",
+                "alt": "Sanibel Wedding Floral Reception Menu"
+            },
+            {
+                "src": "/images/new-weddings/julieMark/juliemark_gallery_37.png",
+                "alt": "Sanibel Wedding Floral Place Cards"
+            }
+        ],
+        "eventDetails": [
+            {
+                "title": "Photography",
+                "link": {
+                    "href": "http://tonyamalay.com/",
+                    "text": "Tonya Malay Photography"
+                }
+            },
+            {
+                "title": "Event Design",
+                "link": {
+                    "href": "http://www.fabchicweddings.com/",
+                    "text": "Fabulously Chic Weddings"
+                }
+            },
+            {
+                "title": "Venue",
+                "link": {
+                    "href": "https://www.casaybelresort.com/",
+                    "text": "Casa Ybel Resort"
+                }
+            }
+        ]
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "template": "events/template.html",
+    "head": {
+        "title": "Pop the Bubbly Birthday Invitation | Dana Marino Design",
+        "description": "A custom illustrated invitation featuring a dolphin splashing in a champagne coupe for a 40th Birthday pool party."
+    },
+    "body": {
+        "name": "Pop the Bubbly Birthday",
+        "description": "A custom illustrated invitation featuring a dolphin splashing in a champagne coupe for a 40th Birthday pool party.",
+        "featureImage": {
+            "src": "/images/new-events/angeebday_hero.png",
+            "alt": "Dolphin in Champagne Coupe Birthday Party Invitation"
+        }
+    }
+}
