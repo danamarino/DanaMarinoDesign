@@ -6,6 +6,7 @@
 
 /* Basic */
 
+@media (max-width: 640px) {
 	body {
 		min-width: 320px;
 	}
@@ -142,3 +143,4 @@
 	#footer {
 		padding: 3em 1.5em;
 	}
+}

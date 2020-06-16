@@ -5,7 +5,7 @@
 */
 
 /* Basic */
-
+@media (max-width: 840px) {
 	header.major {
 		padding-bottom: 0.25em;
 	}
@@ -112,3 +112,4 @@
 	#footer {
 		padding: 4em 1.5em;
 	}
+}

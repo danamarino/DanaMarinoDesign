@@ -5,7 +5,7 @@
 */
 
 /* Basic */
-
+@media (max-width: 1680px) {
 	body, input, select, textarea {
 		font-size: 14pt;
 	}
@@ -13,4 +13,5 @@
 	header.special {
 		padding-top: 5.5em;
 		margin-bottom: 4em;
-	}
+    }
+}

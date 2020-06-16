@@ -197,7 +197,7 @@ nav {
 #menu-icon {
     display: inline-block;
     margin: 0.4em 0;
-    max-width: 1em;
+    max-width: 32px;
     position: relative;
 }
 
@@ -269,15 +269,11 @@ nav ul {
 }
 
 nav ul > li {
-    margin: 0.75em 0;
+    margin: 1em 0;
 }
 
 nav ul a {
     text-decoration: none;
-}
-
-nav ul a.indented {
-    margin-left: 16px;
 }
 
 nav ul a:hover {
