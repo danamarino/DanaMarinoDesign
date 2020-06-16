@@ -1,0 +1,15 @@
+{
+    "template": "maps/template.html",
+    "head": {
+        "title": "Washington, DC Wedding Map | Dana Marino Design",
+        "description": "Washington, DC custom map highlighting The White House, Lincoln Memorial, Washington Monument, US Capitol, Intercontinental DC Wharf, DCA Airport."
+    },
+    "body": {
+        "name": "Washington, DC",
+        "description": "Washington, DC custom map highlighting The White House, Lincoln Memorial, Washington Monument, US Capitol, Intercontinental DC Wharf, Holy Rosary Church, Gravelly Point, and DCA Airport in Arlington.",
+        "featureImage": {
+            "src": "/images/new-maps/washington-dc_hero.png",
+            "alt": "Washington DC Custom Wedding Map"
+        }
+    }
+}

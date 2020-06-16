@@ -1,0 +1,15 @@
+{
+    "template": "maps/template.html",
+    "head": {
+        "title": "St. Augustine, Florida Wedding Map | Dana Marino Design",
+        "description": "St. Augustine custom map highlighting Castillo de San Marcos, Treasury on the Plaza, St. Augustine Distillery, St. George Street, Anastasia Island, and more."
+    },
+    "body": {
+        "name": "St. Augustine, Florida",
+        "description": "St. Augustine custom map highlighting Castillo de San Marcos, Treasury on the Plaza, St. Augustine Distillery, St. George Street, Anastasia Island, and St. Augustine Lighthouse. Variations including The White Room, Fountain of Youth, Bayfront Inn, and Trinity Episcopal Parish also available.",
+        "featureImage": {
+            "src": "/images/new-maps/st-augustine_hero.png",
+            "alt": "St. Augustine Custom Wedding Map"
+        }
+    }
+}

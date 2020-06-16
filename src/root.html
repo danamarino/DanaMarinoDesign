@@ -9,9 +9,6 @@
 		<title><%= head.title %></title>
 		<meta http-equiv="content-type" content="text/html; charset=utf-8" />
         <meta name="description" content="<%= head.description %>" />
-        <% if (head.keywords) { %>
-        <meta name="keywords" content="<%= head.keywords %>" />
-        <% } %>
 		<meta name="viewport" content="width=device-width, initial-scale=1.0">
 		<!--[if lte IE 8]><script src="css/ie/html5shiv.js"></script><![endif]-->
 		<script src="/js/jquery.min.js"></script>
@@ -88,14 +85,47 @@
               </ul>
             </nav> -->
         <div id="template-outlet"></div>
-        <!-- Footer -->
+     <!-- Footer -->
         <footer id="footer">
-            <ul class="icons">
-                <li><a href="https://www.facebook.com/danamarinodesign" class="icon circle fa-facebook" target="_blank"><span class="label">Facebook</span></a></li>
-                <li><a href="http://www.pinterest.com/danamdesign/" class="icon circle fa-pinterest" target="_blank"><span class="label">Pinterest</span></a></li>
-                <li><a href="https://www.etsy.com/shop/DanaMarinoDesign" class="icon circle fa-shopping-cart" target="_blank"><span class="label">Etsy</span></a></li>
-            </ul>
-            <span class="copyright">&copy; Dana Marino Design. All rights reserved. <a href="http://html5up.net" target="_blank">HTML5 UP </a>.</span>
+            <h2 class="hidden">Footer Links</h2>
+            <header class="special container">
+                <span class="logo"><a href="/"><img src="/images/DM_LOGO.svg" height="90" width="90"/></a></span>
+            </header>
+            <div class="row">
+                <div class="4u">
+                    <section>
+                        <h3 class="heading">Custom Stationery</h3>
+                        <ul>
+                            <li><a class="link" href="/weddings">Wedding Invitations</a></li>
+                            <li><a class="link" href="/maps">Custom Maps</a></li>
+                            <li><a class="link" href="/events">Event Stationery</a></li>
+                        </ul>
+                    </section>
+                </div>
+                <div class="4u">
+                    <section>
+                        <h3 class="heading">Site Links</h3>
+                        <ul>
+                            <li><a class="link" href="/about">About</a></li>
+                            <li><a class="link" href="/contact">Contact</a></li>
+                        </ul>
+                    </section>
+                </div>
+                <div class="4u">
+                    <section>
+                        <h3 class="heading">Find Us</h3>
+                        <ul>
+                            <li><a class="link" href="https://www.instagram.com/danamarinodesign" target="_blank"><span class="label">Instagram</span></a></li>
+                            <li><a class="link" href="https://www.facebook.com/danamarinodesign" target="_blank"><span class="label">Facebook</span></a></li>
+                            <li><a class="link" href="http://www.pinterest.com/danamdesign/" target="_blank"><span class="label">Pinterest</span></a></li>
+                            <li><a class="link" href="https://www.etsy.com/shop/DanaMarinoDesign" target="_blank"><span class="label">Etsy</span></a></li>
+                        </ul>
+                    </section>
+                </div>
+            </div>
+            <div class="copyright">
+                <span>&copy; Dana Marino Design, LLC. All rights reserved. <a href="http://html5up.net" target="_blank">HTML5 UP.</a></span>
+            </div>
         </footer>
 	</body>
 </html>

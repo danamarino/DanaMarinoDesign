@@ -1,0 +1,15 @@
+{
+    "template": "events/template.html",
+    "head": {
+        "title": "Over the Rainbow Baby Sprinkle Invitation | Dana Marino Design",
+        "description": "A custom illustrated over the rainbow baby sprinkle invitation, featuring hot air balloons and blue skies."
+    },
+    "body": {
+        "name": "Over the Rainbow Baby Sprinkle",
+        "description": "A custom illustrated over the rainbow baby sprinkle invitation, featuring hot air balloons and blue skies.",
+        "featureImage": {
+            "src": "/images/new-events/laurababy_hero.png",
+            "alt": "Rainbow Hot Air Balloon Baby Sprinkle Invitation"
+        }
+    }
+}

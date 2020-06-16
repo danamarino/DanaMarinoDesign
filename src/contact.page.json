@@ -1,9 +1,8 @@
 {
     "template": "contact.html",
     "head": {
-        "title": "Dana Marino Design - Contact",
-        "description": "Dana Marino Design offers custom design services for weddings, events, businesses, personal stationery, and more.",
-        "keywords": "design, stationery, wedding, invitations, corporate branding, identity, web design, print design, logo design"
+        "title": "Contact | Dana Marino Design",
+        "description": "Contact Dana Marino Design to get a quote for custom designed stationery for your upcoming wedding or special event."
     },
     "body": {}
 }

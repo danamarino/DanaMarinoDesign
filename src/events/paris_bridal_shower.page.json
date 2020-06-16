@@ -1,0 +1,15 @@
+{
+    "template": "events/template.html",
+    "head": {
+        "title": "Paris Bridal Shower Invitation | Dana Marino Design",
+        "description": "A Parisian themed bridal shower invitation with Eiffel Tower illustration and rose florals accented by gold, pink and white stripes."
+    },
+    "body": {
+        "name": "Paris Bridal Shower",
+        "description": "A Parisian themed bridal shower invitation accented by gold, pink and white stripes.",
+        "featureImage": {
+            "src": "/images/new-events/jamiebridal_hero.png",
+            "alt": "Pink and White Striped Eiffel Tower Paris Bridal Shower Invitation"
+        }
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "template": "events/template.html",
+    "head": {
+        "title": "Wild Jungle Baby Shower Invitation | Dana Marino Design",
+        "description": "A jungle-themed invitation with giraffe patterns and hanging monkeys for a little boy baby shower."
+    },
+    "body": {
+        "name": "Wild Jungle Baby Shower",
+        "description": "A jungle-themed invitation with giraffe patterns and hanging monkeys for a little boy baby shower.",
+        "featureImage": {
+            "src": "/images/new-events/meganbaby_hero.png",
+            "alt": "Monkey Jungle Boy Baby Shower Invitation"
+        }
+    }
+}

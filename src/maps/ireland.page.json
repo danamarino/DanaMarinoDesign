@@ -1,0 +1,15 @@
+{
+    "template": "maps/template.html",
+    "head": {
+        "title": "Ireland Wedding Map | Dana Marino Design",
+        "description": "Ireland custom map highlighting Dublin, Belfast, County Laois, Limerick, Killarney, Galway, Cliffs of Moher, Castlebar, Donegal, Waterford, Kilkenny, and Cork."
+    },
+    "body": {
+        "name": "Ireland",
+        "description": "Ireland custom map highlighting Dublin, Belfast, County Laois, Limerick, Killarney, Galway, Cliffs of Moher, Castlebar, Donegal, Waterford, Kilkenny, and Cork.",
+        "featureImage": {
+            "src": "/images/new-maps/ireland_hero.png",
+            "alt": "Ireland Custom Wedding Map"
+        }
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "template": "maps/template.html",
+    "head": {
+        "title": "Waterloo Village, New Jersey Wedding Map | Dana Marino Design",
+        "description": "Waterloo Village in Stanhope, New Jersey custom map featuring Pavilion, Meeting House, Church, Gristmill, Sawmill, Smith’s Store, and the Blacksmith."
+    },
+    "body": {
+        "name": "Waterloo Village, New Jersey",
+        "description": "Waterloo Village in Stanhope, New Jersey custom map featuring the village locations such as Pavilion, Meeting House, Church, Gristmill, Sawmill, Smith’s Store, and the Blacksmith.",
+        "featureImage": {
+            "src": "/images/new-maps/waterloo_hero.png",
+            "alt": "Waterloo Village, New Jersey Custom Wedding Map"
+        }
+    }
+}

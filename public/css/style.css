@@ -79,6 +79,11 @@
 			text-decoration: none;
 			border: 0;
 		}
+	
+	h1 {
+			font-size: 1.5em;
+			letter-spacing: 0.1em;
+		}
 
 	h2 {
 		font-size: 1.5em;
@@ -196,6 +201,20 @@
 		font-size: 0.8em;
 	}
 
+	section.logos {
+		padding-top: 2em;
+		font-size: 0.8em;
+	}
+
+	div.homepageFeature {
+		padding-bottom: 2em;
+	}
+
+	.about {
+		padding-top: 1em;
+		padding-bottom: 2em;
+	}
+
 	header.major {
 		padding-bottom: 2em;
 	}
@@ -226,6 +245,11 @@
 			right: 0;
 		}
 
+		header.special h1 {
+			margin-bottom: 0;
+			padding-top: 1em;
+		}
+
 		header.special h2 {
 			margin-bottom: 0;
 			padding-top: 1em;
@@ -234,6 +258,27 @@
 		header.special h2 + p {
 			margin-bottom: 0;
 			padding-top: 1.5em;
+		}
+
+		header.special h1 + p {
+			margin-bottom: 0;
+			padding-top: 0.5em;
+		}
+		
+		@media (min-width: 1280px) {
+			header.special h2 + p {
+				margin-left: auto;
+				margin-right: auto;
+				max-width: 75%;
+			}
+		}
+
+		@media (min-width: 1280px) {
+			header.special h1 + p {
+				margin-left: auto;
+				margin-right: auto;
+				max-width: 75%;
+			}
 		}
 
 		header.special .icon {
@@ -259,6 +304,10 @@
 			text-align: center;
 			top: 1em;
 			width: 100%;
+		}
+
+		.hidden {
+			display: none !important;
 		}
 
 	footer > :last-child {
@@ -872,7 +921,7 @@
 		background-position: top left, top right, bottom left, bottom right;
 		background-repeat: no-repeat;
 		background-size: 25em;
-		padding: 7em 0;
+		padding: 2em 0;
 	}
 
 		#main > :last-child {
@@ -900,7 +949,7 @@
 	#cta {
 		background-attachment: scroll, scroll, scroll, fixed;
 		background-color: #798aa8;
-		background-image: url("images/light-tl.svg"), url("images/light-tr.svg"), url("images/overlay2.png"), url("../images/banner2.jpg");
+		background-image: url("images/light-tl.svg"), url("images/light-tr.svg"), url("images/overlay2.png"), url("../images/banner2a.png");
 		background-position: top left, top right, top left, bottom center;
 		background-repeat: no-repeat, no-repeat, repeat, no-repeat;
 		background-size: 25em, 25em, auto, cover;
@@ -922,19 +971,31 @@
 /* Footer */
 
 	#footer {
-		background: #e8eef4;
-		color: #798aa8;
-		padding: 5em 5em 10em 5em;
+		background: #bac5d4;
+		color: white;
+		padding: 5em 5em 5em 5em;
 		text-align: center;
 	}
 
 		#footer .copyright {
 			font-size: 0.8em;
+			margin-top: 2em;
 		}
 
 			#footer .copyright a {
 				color: inherit;
 			}
+
+		#footer .heading {
+			font-size: 1em;
+			color:
+		}
+
+		#footer .link {
+			font-size: 0.8em;
+			color: white;
+			font-weight: 500;
+		}
 
 /* Layers */
 

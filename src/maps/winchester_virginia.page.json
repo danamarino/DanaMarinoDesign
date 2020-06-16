@@ -1,0 +1,15 @@
+{
+    "template": "maps/template.html",
+    "head": {
+        "title": "Winchester, Virginia Wedding Map | Dana Marino Design",
+        "description": "Winchester, Virginia custom map featuring The George Washington Hotel, The Chef’s Market, and Grace Evangelical Lutheran Church."
+    },
+    "body": {
+        "name": "Winchester, Virginia",
+        "description": "Winchester, Virginia custom map featuring The George Washington Hotel, The Chef’s Market, and Grace Evangelical Lutheran Church.",
+        "featureImage": {
+            "src": "/images/new-maps/winchester_hero.png",
+            "alt": "Winchester, Virginia Custom Wedding Map"
+        }
+    }
+}

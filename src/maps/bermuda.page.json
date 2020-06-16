@@ -1,0 +1,15 @@
+{
+    "template": "maps/template.html",
+    "head": {
+        "title": "Bermuda Wedding Map | Dana Marino Design",
+        "description": "Bermuda custom map highlighting The Loren at Pink Beach, Botanical Gardens, Bermuda Aquarium, Hamilton, Swizzle Inn, Gibbs Hill Lighthouse, Royal Naval Dockyard."
+    },
+    "body": {
+        "name": "Bermuda",
+        "description": "Bermuda custom map highlighting The Loren at Pink Beach, Botanical Gardens, Bermuda Aquarium, Hamilton, Swizzle Inn, Gibbs Hill Lighthouse, Royal Naval Dockyard, Somerset Village, National Museum, Crystal Caves. Also featured are St. George’s Island and Bermuda Perfumery, and St. Davids Island and airport.",
+        "featureImage": {
+            "src": "/images/new-maps/bermuda_hero.png",
+            "alt": "Bermuda Custom Wedding Map"
+        }
+    }
+}

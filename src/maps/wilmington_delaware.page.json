@@ -1,0 +1,15 @@
+{
+    "template": "maps/template.html",
+    "head": {
+        "title": "Wilmington, Delaware Wedding Map | Dana Marino Design",
+        "description": "Wilmington, Delaware custom map featuring Hotel du Pont, Hagley Museum, Nemours Estate, Winterthur Museum, St. Mary of the Assumption, and Wilmington Station."
+    },
+    "body": {
+        "name": "Wilmington, Delaware",
+        "description": "Wilmington, Delaware custom map featuring Hotel du Pont, Hagley Museum, Nemours Estate, Winterthur Museum, St. Mary of the Assumption, and Wilmington Station.",
+        "featureImage": {
+            "src": "/images/new-maps/wilmington_hero.png",
+            "alt": "Wilmington, Delaware Custom Wedding Map"
+        }
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "template": "maps/template.html",
+    "head": {
+        "title": "Marco Island, Florida Wedding Map | Dana Marino Design",
+        "description": "Marco Island, Florida custom map highlighting JW Marriott, Marco Beach Ocean Resort, Island Country Club, Esplanade Shoppes, and Marco Island Historical Museum."
+    },
+    "body": {
+        "name": "Marco Island, Florida",
+        "description": "Marco Island, Florida custom map highlighting JW Marriott, Marco Beach Ocean Resort, Island Country Club, Esplanade Shoppes, and Marco Island Historical Museum.",
+        "featureImage": {
+            "src": "/images/new-maps/marco-island_hero.png",
+            "alt": "Marco Island, Florida Custom Wedding Map"
+        }
+    }
+}

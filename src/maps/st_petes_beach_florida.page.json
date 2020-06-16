@@ -1,0 +1,15 @@
+{
+    "template": "maps/template.html",
+    "head": {
+        "title": "St. Pete Beach, Florida Wedding Map | Dana Marino Design",
+        "description": "St. Pete Beach, Florida custom map highlighting Sirata Beach Resort, along with Sunset Beach, Belle Vista, and Isla del Sol."
+    },
+    "body": {
+        "name": "St. Pete Beach, Florida",
+        "description": "St. Pete Beach, Florida custom map highlighting Sirata Beach Resort, along with Sunset Beach, Belle Vista, and Isla del Sol.",
+        "featureImage": {
+            "src": "/images/new-maps/st-petes-beach_hero.png",
+            "alt": "St. Pete's Beach, Florida Custom Wedding Map"
+        }
+    }
+}

@@ -54,6 +54,11 @@
                 "type": 301
             },
             {
+                "source": "/events_michelle_bridal.html",
+                "destination": "/events",
+                "type": 301
+            },
+            {
                 "source": "/branding.html",
                 "destination": "/",
                 "type": 301

@@ -1,0 +1,15 @@
+{
+    "template": "events/template.html",
+    "head": {
+        "title": "Fairytale Baby Shower Invitation | Dana Marino Design",
+        "description": "A once upon a time fairytale themed baby shower in soft lavendar and a royal pattern."
+    },
+    "body": {
+        "name": "Fairytale Baby Shower",
+        "description": "A once upon a time fairytale themed baby shower in soft lavendar and a royal pattern.",
+        "featureImage": {
+            "src": "/images/new-events/michellebaby_hero.png",
+            "alt": "Once Upon a Time Fairytale Baby Shower Invitation"
+        }
+    }
+}

@@ -1,9 +1,9 @@
 {
     "template": "index.html",
     "head": {
-        "title": "Dana Marino Design | Wedding Invitations & Event Stationery",
-        "description": "Design services for luxury wedding invitations and event stationery. Specializing in pocket invitations and illustrated maps for custom, one-of-a-kind paper goods.",
-        "keywords": ""
-    },
-    "body": {}
+        "title": "Wedding Invitations & Event Stationery | Dana Marino Design",
+        "description": "Custom design services for luxury wedding invitations and event stationery. Specializing in pocket invitations and illustrated maps for custom, one-of-a-kind paper goods."
+        },
+    "body": {
+    }
 }

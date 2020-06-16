@@ -1,0 +1,15 @@
+{
+    "template": "maps/template.html",
+    "head": {
+        "title": "Kent Island, Maryland Wedding Map | Dana Marino Design",
+        "description": "Kent Island, Maryland custom map highlighting Chesapeake Bay Beach Club, Mark Cascia Vineyard, Matapeake State Park, The Jetty, and local hotels."
+    },
+    "body": {
+        "name": "Kent Island, Maryland",
+        "description": "Kent Island, Maryland custom map highlighting Chesapeake Bay Beach Club, Mark Cascia Vineyard, Matapeake State Park, The Jetty, and local hotels including Best Western, Hilton Garden Inn, and Holiday Inn.",
+        "featureImage": {
+            "src": "/images/new-maps/kent-island_hero.png",
+            "alt": "Kent Island, Maryland Custom Wedding Map"
+        }
+    }
+}

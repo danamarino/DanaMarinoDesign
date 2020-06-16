@@ -1,0 +1,15 @@
+{
+    "template": "maps/template.html",
+    "head": {
+        "title": "Captiva, Florida Wedding Map | Dana Marino Design",
+        "description": "Captiva, Florida custom map highlighting South Seas Island Resort. Captiva bars and restaurants, including Doc Ford’s, The Mucky Duck, Bubble Room, and Keylime Bistro."
+    },
+    "body": {
+        "name": "Captiva, Florida",
+        "description": "Captiva, Florida custom map highlighting South Seas Island Resort and its property including Land’s End, Sunset Cove, Main Pool Complex, King’s Crown Lawn, Marina Villas, Harborside Guest Rooms, Sunset Luau, West Lawn, Beach Villas, and Tennis Villas. Captiva bars and restaurants, including Doc Ford’s, The Mucky Duck, Bubble Room, and Keylime Bistro are also featured.",
+        "featureImage": {
+            "src": "/images/new-maps/captiva_hero.png",
+            "alt": "Captiva, Florida Custom Wedding Map"
+        }
+    }
+}

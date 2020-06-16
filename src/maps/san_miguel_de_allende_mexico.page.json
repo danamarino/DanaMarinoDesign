@@ -1,0 +1,15 @@
+{
+    "template": "maps/template.html",
+    "head": {
+        "title": "San Miguel de Allende, Mexico Wedding Map | Dana Marino Design",
+        "description": "San Miguel de Allende, Mexico custom map highlighting Parroquia de San Miguel Arcangel Church, Jardin Principal, Los Monjas, Doce 18 Concept House, Parque Benito Juarez."
+    },
+    "body": {
+        "name": "San Miguel de Allende, Mexico",
+        "description": "San Miguel de Allende, Mexico custom map highlighting Parroquia de San Miguel Arcangel Church, Jardin Principal, Los Monjas, Doce 18 Concept House, The Restaurant, Belmond Casa de Sierra Nevada, La Casa del Diezmo, Rosewood, Parque Benito Juarez, and Casa Carino.",
+        "featureImage": {
+            "src": "/images/new-maps/san-miguel_hero.png",
+            "alt": "San Miguel de Allende, Mexico Custom Wedding Map"
+        }
+    }
+}

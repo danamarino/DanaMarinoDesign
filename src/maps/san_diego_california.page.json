@@ -1,0 +1,15 @@
+{
+    "template": "maps/template.html",
+    "head": {
+        "title": "San Diego, California Wedding Map | Dana Marino Design",
+        "description": "San Diego, California custom map highlighting USS Midway, Little Italy, Petco Park, The Ultimate Skybox, Hotel del Coronado, Seaworld, San Diego Zoo, La Jolla."
+    },
+    "body": {
+        "name": "San Diego, California",
+        "description": "San Diego, California custom map highlighting USS Midway, Little Italy, Petco Park, The Ultimate Skybox, Hotel del Coronado, Seaworld, San Diego Zoo, St. Brigid Church, Pacific Beach, La Jolla, Del Mar, and Mission Bay.",
+        "featureImage": {
+            "src": "/images/new-maps/san-diego_hero.png",
+            "alt": "San Diego, California Custom Wedding Map"
+        }
+    }
+}

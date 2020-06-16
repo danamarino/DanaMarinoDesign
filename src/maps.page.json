@@ -1,9 +1,8 @@
 {
     "template": "maps.html",
     "head": {
-        "title": "Dana Marino Design - Custom Maps",
-        "description": "Dana Marino Design offers custom design services for weddings, events, businesses, personal stationery, and more.",
-        "keywords": "design, stationery, wedding, invitations, save the dates, maps, illustration, corporate branding, identity, web design, print design, logo design"
-    },
+        "title": "Custom Wedding Maps | Dana Marino Design",
+        "description": "Custom designed and illustrated wedding maps, highlighting your venue and local attractions. Perfect for save the dates, welcome itineraries and invitation enclosures."
+        },
     "body": {}
 }

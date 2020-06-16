@@ -1,0 +1,15 @@
+{
+    "template": "events/template.html",
+    "head": {
+        "title": "Elephant Baby Shower Invitation | Dana Marino Design",
+        "description": "A watercolor baby shower invitation and book card featuring a mama and baby elephant dressed up in soft rose and blush floral crowns."
+    },
+    "body": {
+        "name": "Elephant Baby Shower",
+        "description": "A watercolor baby shower invitation and book card featuring a mama and baby elephant dressed up in soft rose and blush floral crowns.",
+        "featureImage": {
+            "src": "/images/new-events/jamiebaby_hero.png",
+            "alt": "Pink Floral Elephant Baby Shower"
+        }
+    }
+}

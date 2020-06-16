@@ -1,0 +1,21 @@
+{
+    "template": "about.html",
+    "head": {
+        "title": "About | Dana Marino Design",
+        "description": "Dana Marino Design is an independently owned graphic design and stationery business specializing in custom wedding invitatons."
+    },
+    "body": {
+        "featureImage": {
+            "src": "/images/about.png",
+            "alt": "Dana Marino Design"
+        },
+        "featureImage2": {
+            "src": "/images/charlie-stamps.png",
+            "alt": "Dog and Stamps"
+        },
+        "featureImage3": {
+            "src": "/images/as-seen-in.png",
+            "alt": "As Seen In Style Me Pretty, Celebration Society, The Knot, Carats and Cake, Every Last Detail"
+        }
+        }
+}

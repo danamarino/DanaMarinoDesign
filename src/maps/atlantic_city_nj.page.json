@@ -1,0 +1,15 @@
+{
+    "template": "maps/template.html",
+    "head": {
+        "title": "Atlantic City, New Jersey Wedding Map | Dana Marino Design",
+        "description": "Atantic City, New Jersey custom map highlighting hotels such as Borgata, The Claridge, Caesars, Tropicana, Hard Rock, One Atlantic and Steel Pier boardwalk."
+    },
+    "body": {
+        "name": "Atlantic City, New Jersey",
+        "description": "Atantic City, New Jersey custom map highlighting hotels such as Borgata, The Claridge, Caesars, Tropicana, Hard Rock along with event venue One Atlantic and Steel Pier boardwalk. Local attractions like the aquarium, Absecon Lighthouse and the Convention Center are also shown.",
+        "featureImage": {
+            "src": "/images/new-maps/atlantic-city_hero.png",
+            "alt": "Atlantic City, New Jersey Custom Wedding Map"
+        }
+    }
+}
